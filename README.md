@@ -1,3 +1,6 @@
+# CS810E_Project
+Experimental Setup
+
 Procedure:
 To reproduce our experiment or run your own privacy analysis using TrapTrack, follow the steps below:
 
@@ -30,7 +33,7 @@ o	Verify MITMproxy is running.
 o	Load URLs from test_sites.csv.
 o	Open a Chromium browser via Playwright to simulate user interaction.
 
-. Interact with the Website Like a Real User
+5. Interact with the Website Like a Real User
 •	When the browser launches:
 o	Wait for the cookie consent banner to appear.
 o	Click Accept, Reject, or any available choice (based on your test plan).
