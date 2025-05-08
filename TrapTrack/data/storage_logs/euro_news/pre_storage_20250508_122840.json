@@ -1,0 +1,75 @@
+{
+  "localStorage": {
+    "didomi_token": "eyJ1c2VyX2lkIjoiMTk2YjBiYTQtODUyYS02MzdjLTljYmUtNmEyNmZjOTcxYjg5IiwiY3JlYXRlZCI6IjIwMjUtMDUtMDhUMTY6Mjg6NDAuNDAyWiIsInVwZGF0ZWQiOiIyMDI1LTA1LTA4VDE2OjI4OjQwLjQwMloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+    "adblock-activated": "false",
+    "_cb": "DmF2tfCMsgIyBuwl9",
+    "_cb_svref": "external",
+    "_chartbeat2_expires": "1780849720219",
+    "_chartbeat2": ".1746721720217.1746721720217.1.3e3fcCD09I2l9sIpDEMxiCTuayg.1",
+    "_cb_svref_expires": "1746723520222",
+    "_cb_expires": "1780849720219"
+  },
+  "sessionStorage": {},
+  "cookies": [
+    {
+      "name": "euronewsUUID",
+      "value": "d4bee69b-8627-4b32-9b30-df54560f5882",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1778257719,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_cb",
+      "value": "DmF2tfCMsgIyBuwl9",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1780849720,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_chartbeat2",
+      "value": ".1746721720217.1746721720217.1.3e3fcCD09I2l9sIpDEMxiCTuayg.1",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1780849720,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cb_svref",
+      "value": "external",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1746723520,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMCV_237E3E1059F2E95E0A495E5D%40AdobeOrg",
+      "value": "179643557%7CMCIDTS%7C20217%7CvVersion%7C5.5.0",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1780885720,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_token",
+      "value": "eyJ1c2VyX2lkIjoiMTk2YjBiYTQtODUyYS02MzdjLTljYmUtNmEyNmZjOTcxYjg5IiwiY3JlYXRlZCI6IjIwMjUtMDUtMDhUMTY6Mjg6NDAuNDAyWiIsInVwZGF0ZWQiOiIyMDI1LTA1LTA4VDE2OjI4OjQwLjQwMloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1762536520,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ]
+}

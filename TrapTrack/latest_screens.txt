@@ -1,0 +1,2 @@
+euronews_before.png
+euronews_after.png

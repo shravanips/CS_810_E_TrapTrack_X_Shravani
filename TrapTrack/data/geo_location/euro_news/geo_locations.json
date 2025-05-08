@@ -1,0 +1,1085 @@
+{
+    "c.amazon-adsystem.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0438,
+        "lon": -77.4874,
+        "timezone": "America/Chicago",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS CloudFront (GLOBAL)",
+        "as": "AS16509 Amazon.com, Inc.",
+        "query": "13.249.41.182"
+    },
+    "s.seedtag.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "MO",
+        "regionName": "Missouri",
+        "city": "Kansas City",
+        "zip": "",
+        "lat": 39.0997,
+        "lon": -94.5785,
+        "timezone": "America/Chicago",
+        "isp": "Google LLC",
+        "org": "Google Cloud",
+        "as": "AS396982 Google LLC",
+        "query": "34.149.50.64"
+    },
+    "capi.connatix.com": {
+        "status": "success",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "ON",
+        "regionName": "Ontario",
+        "city": "Toronto",
+        "zip": "M5A",
+        "lat": 43.6532,
+        "lon": -79.3832,
+        "timezone": "America/Toronto",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare, Inc.",
+        "as": "AS13335 Cloudflare, Inc.",
+        "query": "172.64.146.152"
+    },
+    "26ed80d323c449d3eea1522a78b35da4.safeframe.googlesyndication.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Mountain View",
+        "zip": "94043",
+        "lat": 37.4225,
+        "lon": -122.085,
+        "timezone": "America/Los_Angeles",
+        "isp": "Google LLC",
+        "org": "Google LLC",
+        "as": "AS15169 Google LLC",
+        "query": "142.250.31.132"
+    },
+    "vtrk.doubleverify.com": {
+        "status": "success",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "ON",
+        "regionName": "Ontario",
+        "city": "Toronto",
+        "zip": "M5A",
+        "lat": 43.6532,
+        "lon": -79.3832,
+        "timezone": "America/Toronto",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare, Inc.",
+        "as": "AS13335 Cloudflare, Inc.",
+        "query": "172.64.145.17"
+    },
+    "ms-cookie-sync.presage.io": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0438,
+        "lon": -77.4874,
+        "timezone": "America/New_York",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)",
+        "as": "AS14618 Amazon.com, Inc.",
+        "query": "34.192.199.220"
+    },
+    "at.teads.tv": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS16625 Akamai Technologies, Inc.",
+        "query": "23.222.197.199"
+    },
+    "2795ff0a8486ac41a815ea2b5a449bb6.safeframe.googlesyndication.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Mountain View",
+        "zip": "94043",
+        "lat": 37.4225,
+        "lon": -122.085,
+        "timezone": "America/Los_Angeles",
+        "isp": "Google LLC",
+        "org": "Google LLC",
+        "as": "AS15169 Google LLC",
+        "query": "172.253.115.132"
+    },
+    "848c9c15f653897bd04a0499702753cf.safeframe.googlesyndication.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Mountain View",
+        "zip": "94043",
+        "lat": 37.4225,
+        "lon": -122.085,
+        "timezone": "America/Los_Angeles",
+        "isp": "Google LLC",
+        "org": "Google LLC",
+        "as": "AS15169 Google LLC",
+        "query": "142.251.167.132"
+    },
+    "cm.g.doubleclick.net": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "Mountain View",
+        "zip": "94043",
+        "lat": 37.4225,
+        "lon": -122.085,
+        "timezone": "America/Los_Angeles",
+        "isp": "Google LLC",
+        "org": "Google LLC",
+        "as": "AS15169 Google LLC",
+        "query": "172.253.115.155"
+    },
+    "creativecdn.com": {
+        "status": "success",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "region": "NH",
+        "regionName": "North Holland",
+        "city": "Amsterdam",
+        "zip": "1012",
+        "lat": 52.3759,
+        "lon": 4.8975,
+        "timezone": "Europe/Amsterdam",
+        "isp": "RTB-HOUSE",
+        "org": "RTB House S.A.",
+        "as": "AS204995 RTB Marketing and Tech Services Ltd",
+        "query": "185.184.8.90"
+    },
+    "tapestry.tapad.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "MO",
+        "regionName": "Missouri",
+        "city": "Kansas City",
+        "zip": "",
+        "lat": 39.0997,
+        "lon": -94.5785,
+        "timezone": "America/Chicago",
+        "isp": "Google LLC",
+        "org": "Google Cloud",
+        "as": "AS396982 Google LLC",
+        "query": "34.111.113.62"
+    },
+    "vi.ml314.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "MO",
+        "regionName": "Missouri",
+        "city": "Kansas City",
+        "zip": "",
+        "lat": 39.0997,
+        "lon": -94.5785,
+        "timezone": "America/Chicago",
+        "isp": "Google LLC",
+        "org": "Google Cloud",
+        "as": "AS396982 Google LLC",
+        "query": "35.201.104.135"
+    },
+    "dpm.demdex.net": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0438,
+        "lon": -77.4874,
+        "timezone": "America/New_York",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)",
+        "as": "AS14618 Amazon.com, Inc.",
+        "query": "52.21.110.150"
+    },
+    "secure.adnxs.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10014",
+        "lat": 40.7365,
+        "lon": -74.0055,
+        "timezone": "America/New_York",
+        "isp": "AppNexus",
+        "org": "AdNexus",
+        "as": "AS29990 Xandr Inc.",
+        "query": "68.67.160.186"
+    },
+    "fastlane.rubiconproject.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Sterling",
+        "zip": "20163",
+        "lat": 39.0067,
+        "lon": -77.4291,
+        "timezone": "America/Chicago",
+        "isp": "The Rubicon Project, Inc.",
+        "org": "The Rubicon Project, Inc.",
+        "as": "AS26667 Magnite, Inc.",
+        "query": "69.173.146.10"
+    },
+    "ib.adnxs.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "New York",
+        "city": "New York",
+        "zip": "10014",
+        "lat": 40.7365,
+        "lon": -74.0055,
+        "timezone": "America/New_York",
+        "isp": "AppNexus",
+        "org": "AdNexus",
+        "as": "AS29990 Xandr Inc.",
+        "query": "68.67.160.76"
+    },
+    "t.pubmatic.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0438,
+        "lon": -77.4874,
+        "timezone": "America/Chicago",
+        "isp": "PubMatic, Inc.",
+        "org": "Level 3, LLC",
+        "as": "AS62713 PubMatic, Inc.",
+        "query": "8.28.7.92"
+    },
+    "g2.gumgum.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0438,
+        "lon": -77.4874,
+        "timezone": "America/New_York",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)",
+        "as": "AS14618 Amazon.com, Inc.",
+        "query": "54.204.174.64"
+    },
+    "serve.akiads.net": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "OR",
+        "regionName": "Oregon",
+        "city": "Portland",
+        "zip": "97207",
+        "lat": 45.5235,
+        "lon": -122.676,
+        "timezone": "America/Los_Angeles",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-west-2)",
+        "as": "AS16509 Amazon.com, Inc.",
+        "query": "34.210.174.87"
+    },
+    "completion.amazon.co.uk": {
+        "status": "success",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "region": "L",
+        "regionName": "Leinster",
+        "city": "Dublin",
+        "zip": "D02",
+        "lat": 53.3498,
+        "lon": -6.26031,
+        "timezone": "Europe/Dublin",
+        "isp": "Amazon Technologies Inc.",
+        "org": "Amazon Technologies Inc. (eu-west-1)",
+        "as": "AS16509 Amazon.com, Inc.",
+        "query": "3.253.177.216"
+    },
+    "ml314.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "MO",
+        "regionName": "Missouri",
+        "city": "Kansas City",
+        "zip": "",
+        "lat": 39.0997,
+        "lon": -94.5785,
+        "timezone": "America/Chicago",
+        "isp": "Google LLC",
+        "org": "Google Cloud",
+        "as": "AS396982 Google LLC",
+        "query": "34.117.77.79"
+    },
+    "cdn.doubleverify.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "Akamai International B.V.",
+        "org": "Akamai Technologies",
+        "as": "AS20940 Akamai International B.V.",
+        "query": "2600:1408:c400:59::17d5:9e14"
+    },
+    "launchpad-wrapper.privacymanager.io": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "District of Columbia",
+        "city": "Washington",
+        "zip": "20068",
+        "lat": 38.9072,
+        "lon": -77.0369,
+        "timezone": "America/New_York",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS CloudFront (GLOBAL)",
+        "as": "AS16509 Amazon.com, Inc.",
+        "query": "3.171.76.92"
+    },
+    "unagi-eu.amazon.com": {
+        "status": "success",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "region": "L",
+        "regionName": "Leinster",
+        "city": "Dublin",
+        "zip": "D02",
+        "lat": 53.3498,
+        "lon": -6.26031,
+        "timezone": "Europe/Dublin",
+        "isp": "Amazon Technologies Inc.",
+        "org": "Amazon Technologies Inc. (eu-west-1)",
+        "as": "AS16509 Amazon.com, Inc.",
+        "query": "3.254.238.10"
+    },
+    "assets.poool.fr": {
+        "status": "success",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "ON",
+        "regionName": "Ontario",
+        "city": "Toronto",
+        "zip": "M5A",
+        "lat": 43.6532,
+        "lon": -79.3832,
+        "timezone": "America/Toronto",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare, Inc.",
+        "as": "AS13335 Cloudflare, Inc.",
+        "query": "172.67.72.58"
+    },
+    "tps.doubleverify.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "MO",
+        "regionName": "Missouri",
+        "city": "Kansas City",
+        "zip": "",
+        "lat": 39.0997,
+        "lon": -94.5785,
+        "timezone": "America/Chicago",
+        "isp": "Google LLC",
+        "org": "Google Cloud",
+        "as": "AS396982 Google LLC",
+        "query": "34.117.228.201"
+    },
+    "cm.everesttech.net": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0438,
+        "lon": -77.4874,
+        "timezone": "America/New_York",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)",
+        "as": "AS14618 Amazon.com, Inc.",
+        "query": "54.175.198.15"
+    },
+    "api.poool.fr": {
+        "status": "success",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "ON",
+        "regionName": "Ontario",
+        "city": "Toronto",
+        "zip": "M5A",
+        "lat": 43.6532,
+        "lon": -79.3832,
+        "timezone": "America/Toronto",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare, Inc.",
+        "as": "AS13335 Cloudflare, Inc.",
+        "query": "104.26.9.21"
+    },
+    "b1sync.zemanta.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "IL",
+        "regionName": "Illinois",
+        "city": "Chicago",
+        "zip": "60666",
+        "lat": 41.8781,
+        "lon": -87.6298,
+        "timezone": "America/Chicago",
+        "isp": "Outbrain, Inc.",
+        "org": "DEFT.COM",
+        "as": "AS22075 Outbrain, Inc.",
+        "query": "50.31.142.127"
+    },
+    "www.euronews.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "San Francisco",
+        "zip": "94107",
+        "lat": 37.7642,
+        "lon": -122.3993,
+        "timezone": "America/Los_Angeles",
+        "isp": "Fastly, Inc.",
+        "org": "Fastly, Inc.",
+        "as": "AS54113 Fastly, Inc.",
+        "query": "151.101.129.91"
+    },
+    "r.casalemedia.com": {
+        "status": "success",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "ON",
+        "regionName": "Ontario",
+        "city": "Toronto",
+        "zip": "M5A",
+        "lat": 43.6532,
+        "lon": -79.3832,
+        "timezone": "America/Toronto",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare, Inc.",
+        "as": "AS13335 Cloudflare, Inc.",
+        "query": "104.18.26.193"
+    },
+    "s.ntv.io": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0469,
+        "lon": -77.4903,
+        "timezone": "America/New_York",
+        "isp": "Akamai International B.V.",
+        "org": "Akamai Technologies, Inc.",
+        "as": "AS20940 Akamai International B.V.",
+        "query": "23.212.249.74"
+    },
+    "prebid.videostep.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "District of Columbia",
+        "city": "Washington",
+        "zip": "20068",
+        "lat": 38.9072,
+        "lon": -77.0369,
+        "timezone": "America/New_York",
+        "isp": "Total Uptime Technologies, LLC",
+        "org": "Total Uptime Technologies, LLC",
+        "as": "AS53334 Total Uptime Technologies, LLC",
+        "query": "162.252.213.81"
+    },
+    "be.durationmedia.net": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0438,
+        "lon": -77.4874,
+        "timezone": "America/New_York",
+        "isp": "Amazon.com",
+        "org": "AWS EC2 (us-east-1)",
+        "as": "AS14618 Amazon.com, Inc.",
+        "query": "44.206.101.126"
+    },
+    "l.euronews.com": {
+        "status": "success",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "QC",
+        "regionName": "Quebec",
+        "city": "Montreal",
+        "zip": "H4X",
+        "lat": 45.5019,
+        "lon": -73.5674,
+        "timezone": "America/Toronto",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare, Inc.",
+        "as": "AS13335 Cloudflare, Inc.",
+        "query": "2606:4700:10::ac43:170c"
+    },
+    "endpoint-qwrap.prebidmanager.com": {
+        "status": "success",
+        "country": "Germany",
+        "countryCode": "DE",
+        "region": "SN",
+        "regionName": "Saxony",
+        "city": "Falkenstein",
+        "zip": "08223",
+        "lat": 50.4777,
+        "lon": 12.3649,
+        "timezone": "Europe/Berlin",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner Online GmbH",
+        "as": "AS24940 Hetzner Online GmbH",
+        "query": "142.132.240.97"
+    },
+    "px.ads.linkedin.com": {
+        "status": "success",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "QC",
+        "regionName": "Quebec",
+        "city": "Montreal",
+        "zip": "H4X",
+        "lat": 45.5019,
+        "lon": -73.5674,
+        "timezone": "America/Toronto",
+        "isp": "Microsoft Corporation",
+        "org": "Microsoft Corporation",
+        "as": "AS8075 Microsoft Corporation",
+        "query": "150.171.22.12"
+    },
+    "match.prod.bidr.io": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0438,
+        "lon": -77.4874,
+        "timezone": "America/New_York",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)",
+        "as": "AS14618 Amazon.com, Inc.",
+        "query": "52.7.60.170"
+    },
+    "choices.truste.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "WA",
+        "regionName": "Washington",
+        "city": "Seattle",
+        "zip": "98101",
+        "lat": 47.6109,
+        "lon": -122.3303,
+        "timezone": "America/Los_Angeles",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS CloudFront (GLOBAL)",
+        "as": "AS16509 Amazon.com, Inc.",
+        "query": "18.160.18.96"
+    },
+    "pub.doubleverify.com": {
+        "status": "success",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "QC",
+        "regionName": "Quebec",
+        "city": "Montreal",
+        "zip": "H4X",
+        "lat": 45.5019,
+        "lon": -73.5674,
+        "timezone": "America/Toronto",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare, Inc.",
+        "as": "AS13335 Cloudflare, Inc.",
+        "query": "2606:4700:4400::6812:2092"
+    },
+    "gw.geoedge.be": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Sterling",
+        "zip": "20163",
+        "lat": 39.0067,
+        "lon": -77.4291,
+        "timezone": "America/Chicago",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS CloudFront (GLOBAL)",
+        "as": "AS16509 Amazon.com, Inc.",
+        "query": "2600:9000:201e:ce00:10:43f:4340:93a1"
+    },
+    "static.euronews.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "CA",
+        "regionName": "California",
+        "city": "San Francisco",
+        "zip": "94107",
+        "lat": 37.7642,
+        "lon": -122.3993,
+        "timezone": "America/Los_Angeles",
+        "isp": "Fastly, Inc.",
+        "org": "Fastly, Inc.",
+        "as": "AS54113 Fastly, Inc.",
+        "query": "151.101.1.91"
+    },
+    "dp2.33across.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "FL",
+        "regionName": "Florida",
+        "city": "Tampa",
+        "zip": "33614",
+        "lat": 28.0199,
+        "lon": -82.5246,
+        "timezone": "America/New_York",
+        "isp": "Steadfast",
+        "org": "Steadfast",
+        "as": "AS32748 Steadfast",
+        "query": "67.202.105.21"
+    },
+    "sync.srv.stackadapt.com": {
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "VA",
+        "regionName": "Virginia",
+        "city": "Ashburn",
+        "zip": "20149",
+        "lat": 39.0438,
+        "lon": -77.4874,
+        "timezone": "America/New_York",
+        "isp": "Amazon Technologies Inc.",
+        "org": "AWS EC2 (us-east-1)",
+        "as": "AS14618 Amazon.com, Inc.",
+        "query": "54.145.76.47"
+    },
+    "launchpad.privacymanager.io": {
+        "error": "HTTP 429"
+    },
+    "fw.adsafeprotected.com": {
+        "error": "HTTP 429"
+    },
+    "casale-match.dotomi.com": {
+        "error": "HTTP 429"
+    },
+    "cdn.qwtag.com": {
+        "error": "HTTP 429"
+    },
+    "ep2.adtrafficquality.google": {
+        "error": "HTTP 429"
+    },
+    "ads.stickyadstv.com": {
+        "error": "HTTP 429"
+    },
+    "images-na.ssl-images-amazon.com": {
+        "error": "HTTP 429"
+    },
+    "eb2.3lift.com": {
+        "error": "HTTP 429"
+    },
+    "sync.sxp.smartclip.net": {
+        "error": "HTTP 429"
+    },
+    "unagi-na.amazon.com": {
+        "error": "HTTP 429"
+    },
+    "109c6adb95fbc7863dadc42210a419a6.safeframe.googlesyndication.com": {
+        "error": "HTTP 429"
+    },
+    "ps.eyeota.net": {
+        "error": "HTTP 429"
+    },
+    "api.rlcdn.com": {
+        "error": "HTTP 429"
+    },
+    "uipglob.semasio.net": {
+        "error": "HTTP 429"
+    },
+    "a252bb51b965609b5faa740c2842429b.safeframe.googlesyndication.com": {
+        "error": "HTTP 429"
+    },
+    "s8t.teads.tv": {
+        "error": "HTTP 429"
+    },
+    "cdn.indexww.com": {
+        "error": "HTTP 429"
+    },
+    "cdn.jsdelivr.net": {
+        "error": "HTTP 429"
+    },
+    "token.rubiconproject.com": {
+        "error": "HTTP 429"
+    },
+    "static.chartbeat.com": {
+        "error": "HTTP 429"
+    },
+    "id.crwdcntrl.net": {
+        "error": "HTTP 429"
+    },
+    "global.ib-ibi.com": {
+        "error": "HTTP 429"
+    },
+    "ib.mookie1.com": {
+        "error": "HTTP 429"
+    },
+    "geo.privacymanager.io": {
+        "error": "HTTP 429"
+    },
+    "cdn.akiads.net": {
+        "error": "HTTP 429"
+    },
+    "rumcdn.geoedge.be": {
+        "error": "HTTP 429"
+    },
+    "cookie-matching.mediarithmics.com": {
+        "error": "HTTP 429"
+    },
+    "td.doubleclick.net": {
+        "error": "HTTP 429"
+    },
+    "jadserve.postrelease.com": {
+        "error": "HTTP 429"
+    },
+    "dsum-sec.casalemedia.com": {
+        "error": "HTTP 429"
+    },
+    "cd.connatix.com": {
+        "error": "HTTP 429"
+    },
+    "id5-sync.com": {
+        "error": "HTTP 429"
+    },
+    "b1sync.outbrain.com": {
+        "error": "HTTP 429"
+    },
+    "78b9e43a8cae7336cdd4da76b8349452.safeframe.googlesyndication.com": {
+        "error": "HTTP 429"
+    },
+    "a3590.casalemedia.com": {
+        "error": "HTTP 429"
+    },
+    "p.placed.com": {
+        "error": "HTTP 429"
+    },
+    "pr-bh.ybp.yahoo.com": {
+        "error": "HTTP 429"
+    },
+    "audex.userreport.com": {
+        "error": "HTTP 429"
+    },
+    "cdn.id5-sync.com": {
+        "error": "HTTP 429"
+    },
+    "www.facebook.com": {
+        "error": "HTTP 429"
+    },
+    "mweb-hb.presage.io": {
+        "error": "HTTP 429"
+    },
+    "mwzeom.zeotap.com": {
+        "error": "HTTP 429"
+    },
+    "api.privacy-center.org": {
+        "error": "HTTP 429"
+    },
+    "cms.quantserve.com": {
+        "error": "HTTP 429"
+    },
+    "pixel-sync.sitescout.com": {
+        "error": "HTTP 429"
+    },
+    "www.temu.com": {
+        "error": "HTTP 429"
+    },
+    "rd.frontend.weborama.fr": {
+        "error": "HTTP 429"
+    },
+    "mab.chartbeat.com": {
+        "error": "HTTP 429"
+    },
+    "gum.criteo.com": {
+        "error": "HTTP 429"
+    },
+    "www.google.com": {
+        "error": "HTTP 429"
+    },
+    "match.deepintent.com": {
+        "error": "HTTP 429"
+    },
+    "www.dianomi.com": {
+        "error": "HTTP 429"
+    },
+    "unagi.amazon.co.uk": {
+        "error": "HTTP 429"
+    },
+    "idsync.rlcdn.com": {
+        "error": "HTTP 429"
+    },
+    "pl.connatix.com": {
+        "error": "HTTP 429"
+    },
+    "mug.criteo.com": {
+        "error": "HTTP 429"
+    },
+    "config.aps.amazon-adsystem.com": {
+        "error": "HTTP 429"
+    },
+    "image6.pubmatic.com": {
+        "error": "HTTP 429"
+    },
+    "tpc.googlesyndication.com": {
+        "error": "HTTP 429"
+    },
+    "fls-eu.amazon.co.uk": {
+        "error": "HTTP 429"
+    },
+    "thrtle.com": {
+        "error": "HTTP 429"
+    },
+    "ep1.adtrafficquality.google": {
+        "error": "HTTP 429"
+    },
+    "euronewsfr.api.useinsider.com": {
+        "error": "HTTP 429"
+    },
+    "static.cloudflareinsights.com": {
+        "error": "HTTP 429"
+    },
+    "euronewsgroup.demdex.net": {
+        "error": "HTTP 429"
+    },
+    "ads.pubmatic.com": {
+        "error": "HTTP 429"
+    },
+    "aax-eu.amazon-adsystem.com": {
+        "error": "HTTP 429"
+    },
+    "s.c.appier.net": {
+        "error": "HTTP 429"
+    },
+    "cds.connatix.com": {
+        "error": "HTTP 429"
+    },
+    "s.amazon-adsystem.com": {
+        "error": "HTTP 429"
+    },
+    "us-u.openx.net": {
+        "error": "HTTP 429"
+    },
+    "aan.amazon.co.uk": {
+        "error": "HTTP 429"
+    },
+    "htlb.casalemedia.com": {
+        "error": "HTTP 429"
+    },
+    "www.googletagmanager.com": {
+        "error": "HTTP 429"
+    },
+    "csync.loopme.me": {
+        "error": "HTTP 429"
+    },
+    "securepubads.g.doubleclick.net": {
+        "error": "HTTP 429"
+    },
+    "hb.yellowblue.io": {
+        "error": "HTTP 429"
+    },
+    "vam-bid.adsrvr.org": {
+        "error": "HTTP 429"
+    },
+    "pixel.tapad.com": {
+        "error": "HTTP 429"
+    },
+    "static.adsafeprotected.com": {
+        "error": "HTTP 429"
+    },
+    "tag.yieldoptimizer.com": {
+        "error": "HTTP 429"
+    },
+    "tpsc-ue1.doubleverify.com": {
+        "error": "HTTP 429"
+    },
+    "i.liadm.com": {
+        "error": "HTTP 429"
+    },
+    "m.media-amazon.com": {
+        "error": "HTTP 429"
+    },
+    "match.adsrvr.org": {
+        "error": "HTTP 429"
+    },
+    "ib.adnxs-simple.com": {
+        "error": "HTTP 429"
+    },
+    "s.company-target.com": {
+        "error": "HTTP 429"
+    },
+    "t.adx.opera.com": {
+        "error": "HTTP 429"
+    },
+    "www.amazon.co.uk": {
+        "error": "HTTP 429"
+    },
+    "ad.turn.com": {
+        "error": "HTTP 429"
+    },
+    "visitor.omnitagjs.com": {
+        "error": "HTTP 429"
+    },
+    "cdn.poool.fr": {
+        "error": "HTTP 429"
+    },
+    "check.analytics.rlcdn.com": {
+        "error": "HTTP 429"
+    },
+    "pagead2.googlesyndication.com": {
+        "error": "HTTP 429"
+    },
+    "wrappers.geoedge.be": {
+        "error": "HTTP 429"
+    },
+    "exchange.postrelease.com": {
+        "error": "HTTP 429"
+    },
+    "ads.scorecardresearch.com": {
+        "error": "HTTP 429"
+    },
+    "dsum.casalemedia.com": {
+        "error": "HTTP 429"
+    },
+    "d.adroll.com": {
+        "error": "HTTP 429"
+    },
+    "js-sec.indexww.com": {
+        "error": "HTTP 429"
+    },
+    "euronewsgroup.d3.sc.omtrdc.net": {
+        "error": "HTTP 429"
+    },
+    "sync.crwdcntrl.net": {
+        "error": "HTTP 429"
+    },
+    "spl.zeotap.com": {
+        "error": "HTTP 429"
+    },
+    "hb-api.omnitagjs.com": {
+        "error": "HTTP 429"
+    },
+    "assets.adobedtm.com": {
+        "error": "HTTP 429"
+    },
+    "tlx.3lift.com": {
+        "error": "HTTP 429"
+    },
+    "aax-eu.amazon.co.uk": {
+        "error": "HTTP 429"
+    },
+    "images-eu.ssl-images-amazon.com": {
+        "error": "HTTP 429"
+    },
+    "sdk.privacy-center.org": {
+        "error": "HTTP 429"
+    },
+    "tag.durationmedia.net": {
+        "error": "HTTP 429"
+    },
+    "postrelease.com": {
+        "error": "HTTP 429"
+    },
+    "eus.rubiconproject.com": {
+        "error": "HTTP 429"
+    },
+    "ping.chartbeat.net": {
+        "error": "HTTP 429"
+    },
+    "a.teads.tv": {
+        "error": "HTTP 429"
+    },
+    "aax.amazon-adsystem.com": {
+        "error": "HTTP 429"
+    },
+    "choices.trustarc.com": {
+        "error": "HTTP 429"
+    },
+    "googleads.g.doubleclick.net": {
+        "error": "HTTP 429"
+    },
+    "dt.adsafeprotected.com": {
+        "error": "HTTP 429"
+    },
+    "ssum-sec.casalemedia.com": {
+        "error": "HTTP 429"
+    },
+    "c1.adform.net": {
+        "error": "HTTP 429"
+    },
+    "tr.blismedia.com": {
+        "error": "HTTP 429"
+    }
+}

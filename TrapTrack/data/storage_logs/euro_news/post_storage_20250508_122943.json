@@ -1,0 +1,991 @@
+{
+  "localStorage": {
+    "cto_bidid": "f_Zuel83RHcxSjZXMU12RXUzS3pRd1BlMHlQOTZiQm82d2ZHN0V2akpGbFByQnVNMkpIekZ0dXAwbVUzdWFiNVVLY21uJTJCMHNHeTExcm9kQTU3M00xNU82RmZRJTNEJTNE",
+    "_cb": "DmF2tfCMsgIyBuwl9",
+    "_ccmsi": "1746721720228_q7wixjggh|1746721767940",
+    "ins-user-segments": "{\"data\":{\"292\":588,\"309\":623,\"327\":656,\"426\":865,\"430\":873,\"448\":909,\"596\":1201,\"628\":1267,\"632\":1275,\"727\":1464,\"769\":1549,\"800\":1613,\"863\":1739,\"864\":1741,\"865\":1743,\"867\":1747,\"868\":1749,\"869\":1751,\"982\":1977,\"983\":1979,\"1006\":2025,\"1007\":2027,\"1008\":2029,\"1009\":2031,\"1010\":2033,\"1011\":2035,\"1012\":2037,\"1013\":2039,\"1014\":2041,\"1015\":2043,\"1028\":2069,\"1029\":2071,\"1030\":2073,\"1031\":2075,\"1032\":2077,\"1034\":2081,\"1035\":2083,\"1036\":2085,\"1037\":2087,\"1038\":2089,\"1039\":2091,\"1061\":2134,\"1071\":2154,\"1072\":2156,\"1073\":2158,\"1074\":2160,\"1075\":2162,\"1076\":2164,\"1078\":2168,\"1079\":2170,\"1083\":2178,\"1109\":2229,\"1110\":2231,\"1112\":2235,\"1118\":2248,\"1119\":2251,\"1120\":2253,\"1121\":2255,\"1122\":2257,\"1123\":2259,\"1131\":2274,\"1137\":2282,\"1143\":2294,\"1144\":2296,\"1148\":2304,\"1149\":2306,\"1150\":2308,\"1151\":2311,\"1167\":2343,\"1168\":2345,\"1169\":2347,\"1170\":2349,\"1171\":2351,\"1172\":2353,\"1173\":2355,\"1174\":2357,\"1175\":2359,\"1176\":2361,\"1177\":2363,\"1178\":2365,\"1179\":2367,\"1180\":2369,\"1181\":2371,\"1182\":2373,\"1183\":2375,\"1184\":2377,\"1185\":2379,\"1186\":2381,\"1187\":2383,\"1188\":2385,\"1189\":2387,\"1190\":2389,\"1191\":2391,\"1192\":2393,\"1193\":2395,\"1194\":2397,\"1195\":2399,\"1196\":2401,\"1199\":2407,\"1200\":2409,\"1201\":2411,\"1202\":2413,\"1203\":2415,\"1204\":2417,\"1205\":2419,\"1206\":2421,\"1207\":2423,\"1208\":2425,\"1209\":2427,\"1210\":2429,\"1211\":2431,\"1212\":2433,\"1214\":2437,\"1215\":2439,\"1216\":2441,\"1217\":2443,\"1218\":2445,\"1219\":2447,\"1220\":2449,\"1221\":2451,\"1222\":2453,\"1223\":2455,\"1224\":2457,\"1225\":2459,\"1226\":2461,\"1227\":2463,\"1228\":2465,\"1229\":2467,\"1230\":2469,\"1231\":2471,\"1238\":2487,\"1283\":2585,\"1288\":2595,\"1293\":2604,\"1294\":2606,\"1295\":2608,\"1296\":2610,\"1315\":2649,\"1318\":2655,\"1319\":2657,\"1320\":2659,\"1322\":2663,\"1324\":2667,\"1326\":2671,\"1327\":2673,\"1330\":2679,\"1331\":2681,\"1332\":2683,\"1334\":2687,\"1335\":2689,\"1339\":2697,\"1341\":2701,\"1343\":2705,\"1346\":2711,\"1348\":2715,\"1349\":2717,\"1353\":2725,\"1355\":2729,\"1356\":2731},\"_expires\":1746725368000}",
+    "cto_bundle": "QD8Mz19iRUJ5SncxRE9DMnUlMkZLSjNSVGhSRnJRb2hGRU9saFBsSlZ4anNzb1dxUzg3JTJGT3VDR3Z6cFdGaldldjlrQ0lDNnJXRXI2bVRsbGtWVllYVmIlMkZZU2Y2SFlBcUpmMVlTRUF5JTJCY0QxWWNpNHhQTE8lMkJlVnA4dUZDZnlDemg1T2olMkJ2Rw",
+    "_chartbeat5_expires": "1746721827020",
+    "_chartbeat2": ".1746721720217.1746721767889.1.BCtdQzljXRyCf32Qz_UnM0BmR7V1.1",
+    "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"creationTimeMs\":1746721725972},\"expires\":1754497725972}}",
+    "cnx_uvc": "p",
+    "_cb_expires": "1780849767889",
+    "_ntv_uid": "332a4fc8-dde8-4667-9f67-23d675470d8d",
+    "adblock-activated": "false",
+    "_cb_svref": "external",
+    "IH_LGCL_TS": "Thu, 15 May 2025 16:28:53 GMT",
+    "_cb_svref_expires": "1746723567891",
+    "ntvSession": "{\"id\":5239918,\"placementID\":1108721,\"lastInteraction\":1746721733909,\"sessionStart\":1746721733909,\"sessionEndDate\":1746763200000,\"experiment\":\"\"}",
+    "_chartbeat5": "",
+    "ix_features": "{\"expiry\":1746725369299,\"features\":{\"pbjs_allow_all_eids\":{\"activated\":true},\"pbjs_enable_multiformat\":{\"activated\":false}}}",
+    "ntv_eids_v2": "[{\"source\":\"criteo.com\",\"uids\":[{\"id\":\"reW4HV83RHcxSjZXMU12RXUzS3pRd1BlMHlQOTZiQm82d2ZHN0V2akpGbFByQnVNMkpIekZ0dXAwbVUzdWFiNVVLY21uVlJZQzExWGRSWTVtTHJSNkE1YUFidyUzRCUzRA\",\"atype\":1}]},{\"source\":\"pubcid.org\",\"uids\":[{\"id\":\"85d88c50-d343-4ad9-aa21-85e387966cdc\",\"atype\":1}]}]",
+    "ins-current-currency": "{\"data\":\"EUR\",\"_expires\":1746808168000}",
+    "didomi_token": "eyJ1c2VyX2lkIjoiMTk2YjBiYTQtODUyYS02MzdjLTljYmUtNmEyNmZjOTcxYjg5IiwiY3JlYXRlZCI6IjIwMjUtMDUtMDhUMTY6Mjg6NDAuNDAyWiIsInVwZGF0ZWQiOiIyMDI1LTA1LTA4VDE2OjI4OjQxLjQ1OFoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6bm9ubGktQUpmNEE0RTQiLCJjOmdvb2dsZWFuYS00VFhuSmlnUiIsImM6YWRzbG90LWdxc3l3QTRNIiwiYzphZG1vYiIsImM6cG9vb2wtMmRrS0t6bU0iLCJjOmdvb2dsZWFuYS05RXBiVm5hNyIsImM6Y2hhcnRiZWF0LVh3bWFFSGNSIiwiYzpjcmFzaGx5dGljLWE4OWFYU3dpIiwiYzphZG9iZWFuYWwteE1QRXBaRWIiLCJjOmFkanVzdC1jY0pIWDZRZSIsImM6aW5zaWRlci1ORlA3WXE5RiIsImM6cG9vb2wtZzlmM1JXY2MiLCJjOmdvb2dsZWFuYS02N0ZVRUpKcSJdfSwicHVycG9zZXMiOnsiZGlzYWJsZWQiOlsiZ2VvbG9jYXRpb25fZGF0YSIsImRldmljZV9jaGFyYWN0ZXJpc3RpY3MiLCJtZXN1cmVybC1VZzMzQnpGNCIsImdlb19hZHMiLCJnZW9fbWFya2V0aW5nX3N0dWRpZXMiXX0sInZlbmRvcnNfbGkiOnsiZW5hYmxlZCI6WyJnb29nbGUiXX0sInZlcnNpb24iOjIsImFjIjoiQUFBQS5OYU9BYUFGa0FtNEI3Z0lrZ2dZQkN1Q09jRkE0S0VRVTZnczFCaTJOYU1BQSJ9",
+    "_chartbeat2_expires": "1780849767889",
+    "ins-consent": "{\"data\":{\"flow\":1},\"_expires\":1778257768000}",
+    "euconsent-v2": "CQRF4gAQRF4gAAHABBENBpFgAAAAAEPgAAAAAAAT9gggALAAcABUAC4AHAAPAAgABIACoAGQANAAjgBMACgAFUAMQAaAA_ACEAEQAI4ATgAowBWgDDAGUANEAcgA5wB3AD2AH7AQcBCACLAEYgI4AjoBJQDaAHUAO2Af8BDoCJwEegJkAUeAp8BUoC1AFsALzAX0AxYBkgDJwGXANNAbqA5MBywEBAIJgTeAnWBP0AAA.YAAACHwAAAAA"
+  },
+  "sessionStorage": {},
+  "cookies": [
+    {
+      "name": "Subject-Id",
+      "value": "thetradedesk-3cfe50de-7cd5-4430-8b29-399eb6074ece",
+      "domain": ".placed.com",
+      "path": "/api/v2/sync",
+      "expires": 1781281729.761287,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_li_ss",
+      "value": "CgASDw269_v3EggKBgj0ARDaGg",
+      "domain": "i.liadm.com",
+      "path": "/s",
+      "expires": 1749313733.741706,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "euronewsUUID",
+      "value": "d4bee69b-8627-4b32-9b30-df54560f5882",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1778257767,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_cb",
+      "value": "DmF2tfCMsgIyBuwl9",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1780849767,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demdex",
+      "value": "20809566586070806914534390418306928956",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1762273724.80263,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCVS_237E3E1059F2E95E0A495E5D%40AdobeOrg",
+      "value": "1",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_token",
+      "value": "eyJ1c2VyX2lkIjoiMTk2YjBiYTQtODUyYS02MzdjLTljYmUtNmEyNmZjOTcxYjg5IiwiY3JlYXRlZCI6IjIwMjUtMDUtMDhUMTY6Mjg6NDAuNDAyWiIsInVwZGF0ZWQiOiIyMDI1LTA1LTA4VDE2OjI4OjQxLjQ1OFoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6bm9ubGktQUpmNEE0RTQiLCJjOmdvb2dsZWFuYS00VFhuSmlnUiIsImM6YWRzbG90LWdxc3l3QTRNIiwiYzphZG1vYiIsImM6cG9vb2wtMmRrS0t6bU0iLCJjOmdvb2dsZWFuYS05RXBiVm5hNyIsImM6Y2hhcnRiZWF0LVh3bWFFSGNSIiwiYzpjcmFzaGx5dGljLWE4OWFYU3dpIiwiYzphZG9iZWFuYWwteE1QRXBaRWIiLCJjOmFkanVzdC1jY0pIWDZRZSIsImM6aW5zaWRlci1ORlA3WXE5RiIsImM6cG9vb2wtZzlmM1JXY2MiLCJjOmdvb2dsZWFuYS02N0ZVRUpKcSJdfSwicHVycG9zZXMiOnsiZGlzYWJsZWQiOlsiZ2VvbG9jYXRpb25fZGF0YSIsImRldmljZV9jaGFyYWN0ZXJpc3RpY3MiLCJtZXN1cmVybC1VZzMzQnpGNCIsImdlb19hZHMiLCJnZW9fbWFya2V0aW5nX3N0dWRpZXMiXX0sInZlbmRvcnNfbGkiOnsiZW5hYmxlZCI6WyJnb29nbGUiXX0sInZlcnNpb24iOjIsImFjIjoiQUFBQS5OYU9BYUFGa0FtNEI3Z0lrZ2dZQkN1Q09jRkE0S0VRVTZnczFCaTJOYU1BQSJ9",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1762536521,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "euconsent-v2",
+      "value": "CQRF4gAQRF4gAAHABBENBpFgAAAAAEPgAAAAAAAT9gggALAAcABUAC4AHAAPAAgABIACoAGQANAAjgBMACgAFUAMQAaAA_ACEAEQAI4ATgAowBWgDDAGUANEAcgA5wB3AD2AH7AQcBCACLAEYgI4AjoBJQDaAHUAO2Af8BDoCJwEegJkAUeAp8BUoC1AFsALzAX0AxYBkgDJwGXANNAbqA5MBywEBAIJgTeAnWBP0AAA.YAAACHwAAAAA",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1762536521,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "euronews-consent-status",
+      "value": "1",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1778257721,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "s_cc",
+      "value": "true",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dpm",
+      "value": "20809566586070806914534390418306928956",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1762273724.802698,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_237E3E1059F2E95E0A495E5D%40AdobeOrg",
+      "value": "179643557%7CMCIDTS%7C20217%7CMCMID%7C20327335161312998074483851700088972304%7CMCAAMLH-1747326521%7C7%7CMCAAMB-1747326521%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1746728921s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20224%7CvVersion%7C5.5.0",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1780885722,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rlas3",
+      "value": "UvSYyEqOI44ByCYnDAzezFIz17BBFgMoKV+U5sK6c3g=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1778257722.393063,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pxrc",
+      "value": "CLq388AGEgUI6AcQABIGCPHrARAA",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1751905722.393104,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "33x_ps",
+      "value": "u%3D213107072985591%3As1%3D1746721722751%3Ats%3D1746721722751",
+      "domain": ".33across.com",
+      "path": "/",
+      "expires": 1778257723.732261,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "7029518304848341931",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1754497733.111805,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmkZEyAOZ77I6pfe7u1pZdtDtntQE720PZqF_tWrp_1U249aa3eoZ5LpR6JYyg",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1781281722.791343,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fbh0",
+      "value": "%7B%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1778257722.850791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gcma",
+      "value": "%7B%22t%22%3A0%2C%22o%22%3Afalse%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1778257722.850809,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rmxc",
+      "value": "%7B%22t%22%3A0%2C%22e%22%3A%22%22%2C%22i%22%3Afalse%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1778257722.85082,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cktst",
+      "value": "211542408",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1778257722.798924,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "value": "3652481882581368885",
+      "domain": ".ml314.com",
+      "path": "/",
+      "expires": 1778257722.822795,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ckid",
+      "value": "2035089026345",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1778257722.85083,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dph",
+      "value": "%7B%22t%22%3A%5B143320%5D%2C%22dp%22%3A%5B2233%5D%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1778257722.850837,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ph",
+      "value": "%7B%22p%22%3A%5B1025%5D%2C%22t%22%3A%5B143320%5D%7D",
+      "domain": ".yieldoptimizer.com",
+      "path": "/",
+      "expires": 1778257722.850846,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mako_uid",
+      "value": "196b0ba527e-56360000010a4f15",
+      "domain": ".eyeota.net",
+      "path": "/",
+      "expires": 1778257722.984487,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SERVERID",
+      "value": "20245~DM",
+      "domain": ".eyeota.net",
+      "path": "/",
+      "expires": 1746722323.030747,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dextp",
+      "value": "60-1-1746721721926|358-1-1746721722028|477-1-1746721722129|601-1-1746721722230|771-1-1746721722332|22069-1-1746721722434|22052-1-1746721722536|30064-1-1746721722637|73426-1-1746721722739|121998-1-1746721722840|285689-1-1746721722941|87898-1-1746721723042",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1762273723,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_lr_retry_request",
+      "value": "true",
+      "domain": "www.euronews.com",
+      "path": "/",
+      "expires": 1746725323,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_env_src_ats",
+      "value": "false",
+      "domain": "www.euronews.com",
+      "path": "/",
+      "expires": 1749313723,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "xahcx4ppf3xjeikf3tm1aotj",
+      "domain": "global.ib-ibi.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_dc",
+      "value": "0",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1770048120.960482,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "value": "1c321f50ddace8e4905eed8dcbf8bfa9",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1770048120.960525,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "qp10r1dc4xl0fqexdatolio1",
+      "domain": "ib.mookie1.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1778257769.297638,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ibkukiuno",
+      "value": "s=1b6cbb1c-cdee-47f4-bf45-cd6f36f4adf0&h=&v=0&l=-8584548851608745475&op=&hl=0&vlu=0&tcs=1&dcc=-8584548851610344026",
+      "domain": ".ib.mookie1.com",
+      "path": "/",
+      "expires": 1778257724.585641,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "value": "ID=51c8f037ba54f93b:T=1746721725:RT=1746721725:S=AA-AfjYSOWMdMWxr9DCbeGI4Hzaj",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1762273725,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.846314749.1746721726",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1754497726,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TDID",
+      "value": "af21afa2-525f-4b91-8baf-3eca7ef5fd93",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1778257734.57087,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1746721730156",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1751905732.396082,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "238d0cdf-55dd-4e8e-bf34-7806faaafede",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1751905732.396134,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "aBzbwtHM55wAFx4pAEIulQAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1778257746.065648,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "5675",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1754497730.754969,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "5675",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1754497746.065726,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_lr_sampling_rate",
+      "value": "0",
+      "domain": "www.euronews.com",
+      "path": "/",
+      "expires": 1747326530,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "b",
+      "value": "681CDBC3C62EBBF50C570BF0_",
+      "domain": ".blismedia.com",
+      "path": "/",
+      "expires": 1778261731.171352,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ssi",
+      "value": "d36a5820-45ac-434c-8039-21b3a421acf8#1746721731237",
+      "domain": ".sitescout.com",
+      "path": "/",
+      "expires": 1778257732.710133,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-id",
+      "value": "A0NdnaDQNk5qiUWAY0Inbh0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1767284931.276787,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1781281731.276915,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1751905732.39615,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ssuma",
+      "value": "eyIyNCI6MTc0NjcyMTczMjczMywiMzkiOjE3NDY3MjE3MzEyNzcsIjciOjE3NDY3MjE3MzEyNzd9",
+      "domain": ".sitescout.com",
+      "path": "/",
+      "expires": 1749313732.710198,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBMXbHGgCEGUm9IYHh266OsmwFloaAUAFEgEBAQEtHmgmaAAAAAAA_eMAAA&S=AQAAAp1LcOPwULGSz11WikOXqwg",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1778279344.708727,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bito",
+      "value": "AARfRU7QObgAABtyk-s9hw",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1780835333.543656,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bitoIsSecure",
+      "value": "ok",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1780835333.543707,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CDIUSER",
+      "value": "di_26dfbb1d06094d23b396f",
+      "domain": ".deepintent.com",
+      "path": "/",
+      "expires": 1781281733.546871,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CDIPARTNERS",
+      "value": "%7B%221%22%3A%2220250508%22%7D",
+      "domain": ".deepintent.com",
+      "path": "/",
+      "expires": 1781281733.547098,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__adroll",
+      "value": "1debdc50570fa2cb6683b2c8990fa7b4-a_1746721733",
+      "domain": ".d.adroll.com",
+      "path": "/",
+      "expires": 1780849733.679062,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".d.adroll.com",
+      "path": "/",
+      "expires": 1780849733.679101,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adroll.com",
+      "path": "/",
+      "expires": 1780849733.679113,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__adroll_shared",
+      "value": "1debdc50570fa2cb6683b2c8990fa7b4-a_1746721733",
+      "domain": ".adroll.com",
+      "path": "/",
+      "expires": 1780849733.679123,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidid",
+      "value": "4716d60c-2fe6-4e89-8fb6-cb12c095cff9",
+      "domain": ".liadm.com",
+      "path": "/",
+      "expires": 1781281733.741731,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g",
+      "value": "qb3NE7PI4u9y3gm6ATSi_1746721733837",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1778257733.849413,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts",
+      "value": "1746721733",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1778257733.849455,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pubcid",
+      "value": "85d88c50-d343-4ad9-aa21-85e387966cdc",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1762273733,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pubcid_cst",
+      "value": "zix7LPQsHA%3D%3D",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1762273733,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "visitor",
+      "value": "332a4fc8-dde8-4667-9f67-23d675470d8d",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1778257733.978387,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "status",
+      "value": "0",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1778257733.978446,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "opt_out",
+      "value": "2",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1778257733.967583,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ver",
+      "value": "1",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1778257733.978464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFQoGY2FzYWxlEgsI2OKksu6Vhz4QBRgBIAEoAjILCJKF7v6Eloc-EAU4AVoHYnJnZXUyM2AC",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1778257734.570934,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-1e468b70-e0da-5203-4126-20b2f3644884.QIzuDVqTVtD2vlIMfxi4VB9PasaGYPc%2BjJ9zNkaL4v8",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1778257735.199739,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-1e468b70-e0da-5203-4126-20b2f3644884.QIzuDVqTVtD2vlIMfxi4VB9PasaGYPc%2BjJ9zNkaL4v8",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1778257735.199775,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3AHkaLcODaUgNBJiCy82RIhEvLbm0.TNDqiLjVZ69oXHBmJ65kF%2F0hu%2FcDVJlYPjIgh8ku9VM",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1778257735.199786,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3AHkaLcODaUgNBJiCy82RIhEvLbm0.TNDqiLjVZ69oXHBmJ65kF%2F0hu%2FcDVJlYPjIgh8ku9VM",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1778257735.199795,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%3AAQAKIFspPW22kLl2UEX7A2CLKzfOs0jTzD0oCwf18oLUId-kEAIYAyDHt_PABjABOgSWJ8L6QgRGfiI8.t38q89u3Ek1NkllxJC8ctPZzKDL2amR%2B8yYDndhhWfI",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1778257735.199803,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%3AAQAKIFspPW22kLl2UEX7A2CLKzfOs0jTzD0oCwf18oLUId-kEAIYAyDHt_PABjABOgSWJ8L6QgRGfiI8.t38q89u3Ek1NkllxJC8ctPZzKDL2amR%2B8yYDndhhWfI",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1778257735.199813,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mc",
+      "value": "eyJpZCI6ImIzNThlYjc2LTc1YzYtNDA0Yi1hZWI5LWRmMDQ3ZTg1MGM3NSIsImwiOjE3NDY3MjE3MzUzMTMsInQiOjR9",
+      "domain": ".thrtle.com",
+      "path": "/",
+      "expires": 1764001735.26612,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sc",
+      "value": "eyJpIjoiNDdlMTQ2ODctNDQ2YS00YmZmLTk2MDEtZDUwZGNkYTkxYTdmIiwic2lkIjoic2lkLTg5MGQ4NmI5LTJjMjktMTFmMC04ZTk0LTAyNDIwYWZmMTlkNSIsIm1zIjoyLCJwcyI6Miwic3AiOjUwNDQsInBwIjoyLCJ0c2UiOjIsImx0c2UiOjE3NDY3MjE3MzQ2NDl9",
+      "domain": ".thrtle.com",
+      "path": "/",
+      "expires": 1764001735.266165,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ayl_visitor",
+      "value": "33bb49c6ec43f68ed294d11de103255e",
+      "domain": ".omnitagjs.com",
+      "path": "/",
+      "expires": 1749313744.000241,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&1ac39485-e520-470b-83fa-c1dee215aa4f\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1778257745.11778,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=OGST08:s=O:r=O:a=O:p=O:g=3195:u=1:x=1:i=1746721744:t=1746808144:v=2:sig=AQFUkll01E7EtqY_hGvMigFbeNj6wtxQ\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1746808145.117836,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "2562595777770641557",
+      "domain": ".turn.com",
+      "path": "/",
+      "expires": 1762273744.828354,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mc",
+      "value": "681cdbd0-d0087-8b463-584d9",
+      "domain": ".quantserve.com",
+      "path": "/",
+      "expires": 1780936144.836596,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sp",
+      "value": "CgkIhf8CEgMQog8=",
+      "domain": ".quantserve.com",
+      "path": "/",
+      "expires": 1754497744.880159,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "e16c835f-3ae0-4f27-82e3-c3ec5b2ff20c",
+      "domain": ".company-target.com",
+      "path": "/",
+      "expires": 1780936144.942596,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1746721744|ix:0",
+      "domain": ".company-target.com",
+      "path": "/",
+      "expires": 1780936144.942636,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zuid",
+      "value": "RRb6qS8xjc-tyaHOAxow",
+      "domain": ".zemanta.com",
+      "path": "/",
+      "expires": 1778257745.394496,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "obuid",
+      "value": "e8ac9669-d1d1-44bd-8a30-4a578dd50c51",
+      "domain": ".outbrain.com",
+      "path": "/",
+      "expires": 1778257745.352318,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "viewer_token",
+      "value": "4503108c-e260-4d69-818b-c7b074fdfcaf",
+      "domain": ".csync.loopme.me",
+      "path": "/",
+      "expires": 1754670545.384402,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UID",
+      "value": "OPU1d32af09bebf4169af641b49b24c566f",
+      "domain": ".adx.opera.com",
+      "path": "/",
+      "expires": 1778257746.006619,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_chartbeat5",
+      "value": "",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1746721827,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_sq",
+      "value": "%5B%5BB%5D%5D",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_chartbeat2",
+      "value": ".1746721720217.1746721767889.1.BCtdQzljXRyCf32Qz_UnM0BmR7V1.1",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1780849767,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cb_svref",
+      "value": "external",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1746723567,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bundle",
+      "value": "QD8Mz19iRUJ5SncxRE9DMnUlMkZLSjNSVGhSRnJRb2hGRU9saFBsSlZ4anNzb1dxUzg3JTJGT3VDR3Z6cFdGaldldjlrQ0lDNnJXRXI2bVRsbGtWVllYVmIlMkZZU2Y2SFlBcUpmMVlTRUF5JTJCY0QxWWNpNHhQTE8lMkJlVnA4dUZDZnlDemg1T2olMkJ2Rw",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1780403370,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bidid",
+      "value": "f_Zuel83RHcxSjZXMU12RXUzS3pRd1BlMHlQOTZiQm82d2ZHN0V2akpGbFByQnVNMkpIekZ0dXAwbVUzdWFiNVVLY21uJTJCMHNHeTExcm9kQTU3M00xNU82RmZRJTNEJTNE",
+      "domain": ".euronews.com",
+      "path": "/",
+      "expires": 1780403370,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ]
+}

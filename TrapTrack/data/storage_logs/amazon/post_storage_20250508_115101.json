@@ -1,0 +1,103 @@
+{
+  "localStorage": {
+    "csa-tabbed-browsing": "{\"lastActive\":{\"visible\":true,\"pid\":\"22vomz-7euiem-zdmaf0-9vw499\",\"tid\":\"22vomz-7euiem-zdmaf0-9vw499\",\"ent\":{\"rid\":\"NFYHZP85QFZ48H2AH6PC\",\"ety\":\"Gateway\",\"esty\":\"desktop\"}},\"lastInteraction\":{\"id\":\"dl56y1-paoass-b9nuyj-eftunm\",\"sid\":\"sp-cc-accept\",\"used\":false},\"time\":1746719434061,\"initialized\":true}",
+    "csm-bf": "[\"NFYHZP85QFZ48H2AH6PC\"]",
+    "csa-ctoken-NFYHZP85QFZ48H2AH6PC": "1746723034060",
+    "a-font-class": "a-ember",
+    "amznfbgid": "X60-5679252-1940589:1746719439",
+    "csm:adb": "adblk_no",
+    "csm-hit": "tb:NFYHZP85QFZ48H2AH6PC+s-NFYHZP85QFZ48H2AH6PC|1746719436056&t:1746719436056&adb:adblk_no",
+    "puff:suppression": "{\"259-4325877-4853656\":{\"disabled\":false,\"suppressUntil\":\"2025-05-08T16:50:36.887Z\",\"suppressionMessage\":\"Customer is unrecognized\"}}",
+    "rx": "AEVDJa3N5D84fi2V/tN+fhOQwZnBGcbncUipSmImBywuXkThRBOSLSysVnUsx0q6WDAyMSRjzG62tFmG0gRF2NBv5Ons4c+nZT7pawAc8V5WsZ+eJ5BMDTvT31C5shgJYrAs5ODqi4kQ46/+9Y3xg79kNQ"
+  },
+  "sessionStorage": {
+    "NFYHZP85QFZ48H2AH6PC": "1",
+    "CSM_previousURL": "https://www.amazon.co.uk/",
+    "csmtid": "NFYHZP85QFZ48H2AH6PC",
+    "csa-tabbed-browsing": "{\"pid\":\"22vomz-7euiem-zdmaf0-9vw499\",\"tid\":\"22vomz-7euiem-zdmaf0-9vw499\",\"ent\":{\"rid\":\"NFYHZP85QFZ48H2AH6PC\",\"ety\":\"Gateway\",\"esty\":\"desktop\"},\"lastInteraction\":{\"id\":\"dl56y1-paoass-b9nuyj-eftunm\",\"sid\":\"sp-cc-accept\",\"used\":false},\"initialized\":true}",
+    "amzn:fwcim:events": "[{\"time\":1746719442709,\"item\":{\"k\":\"fwcim\",\"r\":\"NFYHZP85QFZ48H2AH6PC\",\"p\":\"https://www.amazon.co.uk/\",\"c\":null,\"t\":1746719442709,\"type\":\"inc\",\"md\":\"ECdITeCs:N+hwoO9knimTVLNt7jpBhP+0dUxnZp89EU1YrmznzAYXncWwqMtL75lXvjGUxQcjhfOferKtz83iRD7ptgaYFnbXfZ0Q3JdPjU+pvYfrqf9aB0vsD1wu5AhS0t88ndZQl04zkLQvcCGFGzwnrVFRp9GskHXGA9NjHMkkb5iWyDxDWRSFD5sVlZvE6/xCFSpD\"}},{\"time\":1746719445856,\"item\":{\"k\":\"fwcim\",\"r\":\"NFYHZP85QFZ48H2AH6PC\",\"p\":\"https://www.amazon.co.uk/\",\"c\":null,\"t\":1746719445856,\"type\":\"inc\",\"md\":\"ECdITeCs:ha2lKcCt3K/qO1FxCzO3w+JY8Q3r68mfh8wjMzKZBjQUui0UZkGKja+08i0ovPLFUSjuuLkkXsH0OvY2y9s68b437VhzgWN65as/hOTiB7W3guXeAp0x8ML9QF9aMri2pwT/2frtyJJ6O+rTHl+zFRN89oOH2MWyNyDmoq7FQSe2RLGH0bKWUuHOMO8lNm4MQQ/Wk6W/b8oYcOZKk6YIFnpyA8TQumP9p3QiKauXOJJbr4UsJZljy1J3Lwb5OEeF4RRnvnRSrEKI0enq0H/bkPUYJDV6ZXtS0VjConc315K9vLK3bg+a2xC4QGCRtctKkvV73rAYK8QHIkBR8yiLwMfoY4+msXDOdEA3eGKiAlozKgSwnl1M9dd9jaTzVIMm57WrFomFjhEHD9Jh363Z35phDKqE6md5DSIT/1HFsiBrLXnER6dzRXVD1TojZ4cSdOb44OiuUPBpuEd3sO374x4atcCYoeyhdRpy6IjbfYhePDIK5gZUDqV1cbV+cQ1dQsuIaDem/ukVRlh7BDwmaKryLJc76e2tnUHFIPw+41q8Awqbx/09SAaOb3bV5UiAMB/oh/AuodA63RGisPlKcK93+glrJh8Ha7IuMH/NoK1tD8576E7OQSZaHoG4HGOzjN3/4xhJSyfU2v6KpgJ3W1G0siNE4MxQGPHoxGYGmd5Guh0QQDR/S3bwakxBiVd2KTbyIqkkXOQDYHtyuGaGSez6vsM1In5SMvdASWNPhi4MfHqUFzlYDLpYJJtI6BL/lNDFLh0Lkt0Sq0V+pv0sllLo2aXN1AikKE/SlJFH/VJVicX0F2g+ayxHc4bq2ogJ5lH5B94IxNoSFkeiNRTZs7D3Nm+5lTy3M8XFAuHis3DcqnIR42jyXVJcXw3NUdjIhh0L8jYhgdZy0rn/KsZLZmFK1usN2xr9Xkd1uS7cR1IkVrtDbPOSO059AFZqNLmf+F8sm3OXTARxBRq/1rMWE7eJzGRzRKnraYge1Z+8jLBlLoM7RJOrfcGgcI6Rep1k6iTWjBTkONyi4nxaS3E189sx8xyqXTDwsYRzplI4FkXr3wWypuVp4VOusvwm+68VvAfaUOgrsBV55fLZ+yXGaMW766Vb2QSl5JIWIYqdQcw3BEXW64KYHjgRjX3okesRRbYtgSmLb+9fY+6znrG3LYi/V5t8wBp/l8EPPNVlj3bpDTtTMozESoTpsoVr7sIT7WazZ5igIY4cRmJmtxtRbPEykrrNPLSqRy5IeAsnQBRHOI5Y6R3fvhbSpMf5kKCVoO00ZHYqdW40TU81ujaU5hOfQVY+7JUpCbk7pBDgtVJ0vWMCPCLUpQ==\"}},{\"time\":1746719449293,\"item\":{\"k\":\"fwcim\",\"r\":\"NFYHZP85QFZ48H2AH6PC\",\"p\":\"https://www.amazon.co.uk/\",\"c\":null,\"t\":1746719449293,\"type\":\"inc\",\"md\":\"ECdITeCs:+8W2IwNMuf4KQ0rD7Pv2uH2S1rVRNS8dXnAqAUd1K9lxNok/SyB77dwZnM8zyGkTsztL2uepcmlG1I/5oFSfj6CyJMJ8S+OYOR86EAQrwFWaR/Hr8u7QQ+jxFjIrlILeslcQpXLv7ODA0HCw6KFUXjlEtIwF8l0u+V9JL8xzvryk/1YbuC192w7kpM9Xr4QI/aG454O6AMS2t6VaV0TV9xhKZNpm3HaSz0cVOXigeuq1DdQAH2awcESUNkHW+shdHfWpa2eP/8Z/Bzsir64+0/f4IQL+MaGYmapcvtQp9qFcFR7PlY873HN+Psjb03+xoqrnW/ZF9zjAF6LDwYRMUlBapqdba0fmdS6c5J59g41Kueoa/dO0DVxqfIlERF/llMKirwBN4bH81ofW35oiX6uUd3SHcUkvH/keSD2J8N8C954VCcZPUiiOKiZHyGhDk+QUFTekxmIDRKeNiSlpcnRvogzGios6Zg+9ToSEdZoG3j+H2/4Se4fTyAFoTp9djEkR5xQHYP2f7GP6yoACJXGlll6YcFSamt8hk4lp/bCZpMExoj5w1LqP4gJtIqBAzX9e1O1M0perTy1Rl+Z3Fs4AWShgntRskvS6zEu9AZeMf4z0TdBYicFtu425c75PRe/Wb5d5b8pHdTIyvPhyZ+6HGKPQ4/QInOoNAXXMLp3AIvFQtT9LLQVIcY+1yacodQKSu+fBtZiHk/y9mEh/e/q6X6FnMap6bUEAU3IYW+Iw5392r2oaBf1+RFod2h2yA8bbXQgKSIQBc2jJ6kJeeU+0LaTpuowurxMh47VrTnCHiprjvn3j9nlRd9t4y+66lbNmId4Dxy7MwEuk0gIHb2quIAQdm9Zqp1Za3TRZbqyfDGt1Fy+rdHmCAO1WdqkzrNZQbFPgxsNkDS6bQgSmrcsWHAsPjfZTalq6fgVS4QStr0zsnJb/oRLQPYiquskGEpgdn4ZgxH5Zh9N6G18+okxQMqSKeBSbiI+FfyOBX1qU+f1IGV09nuOjvFt1ZOirmCNwgUX2SL4p1McoUSmNVpHhzx7qZLY5fzixCnAvKNKU7ZD+uy9thINlkhi7dUq7aCxh4BiaY9DlnSTi2zfm0kzSuOl+yisHerIXo90hESc+9SVDDXF9C17fjBsCepq0\"}},{\"time\":1746719452741,\"item\":{\"k\":\"fwcim\",\"r\":\"NFYHZP85QFZ48H2AH6PC\",\"p\":\"https://www.amazon.co.uk/\",\"c\":null,\"t\":1746719452741,\"type\":\"inc\",\"md\":\"ECdITeCs:Sv7/DCLWwFCdH4t5R0ZV72LMtGA0mkETBCsaAtZOJZ8fuus6cAKyiGad0g9QdYFjE75feozTU4yb1VrstTcFKuPdQKAkpAy/TaR6SiDGTJBXfcsN74EEIFkwGywJjPjl7DC2BsKSeB8eS/crbSUjMe4ElOccAxAfs908CRLbutkoUBQ57pqAGouTCylVdD0UUzirasKfEIxK0dLUPLOSrqFt20xF1xzp5+kvY9ante5tk5ntY+CrCFVsOVG46q3a9bNH01ZyWZOBlqRyoFl65gXbHuerrjwr0nRWHrGbl/97eEgsWtAps9RsnREspTp/cCEQxOmv2QQzeTeck44jCr2bihEYlkeL0Vr37EG0W4AMIMB8Xh6Hn4SSQu+kR2UUdYdh9vTTnTiIvIhhAm681joyHSMuf7WkPWGViJptFVDsGZFFG1OBxX/PSPivXtTjjmmQvYcLt3XAlZeIOsET4P9/hBaFDT5Pu22wtWAdNyhB7VYzWTR5/Kyhg+O5AXFKgE/cX1jyKB5kmAxkpUX9F53lzO0+/k79cZa7kjyNnK+Ppka67ZfJKXXpt5SrjwjCPBe0etlGdRNzfHXg4xhXiQvsvFahMoDy/hscgNut2uktrQpYw0ZwJFNUkr4TfZryiwnGT3Bg/9xTDF82341Ud4neTwJ27J8u1JsftxaHcj6PtTb900QkXOnpZdlF1yV9qlJSpwPS+ffPLgLNQTy4rZMrW0M/Uh0YYhXLyncBEScUby8a0F07i3kUs/wFqby6ZZNziPKmoe0+1fhtF0beBT3UT6+2L/cGzAuu2JvHINIkRFplvKsv+BQO7Y2Pi6Ka8/EYAf1tsFXvPUWclmeFd4S069kKLYVBdDTM4Udu2rALDNcY8zqP4S6ln1Pk8ZDffTRULA/i+9TT1zW6y9C0gwZBIn+fJtdMJiIMhH6Xo+wsDdaKF9LLU4jT5YbZMgSds80JWBNBOdUE86JnABzEUZyay8teWmmLwQoVya587CiZ3wCzOBmccBNaN9Stjx/YaAHFNpxYCxxeiv+kQ7s1L+MIgfAyZ6rlAByfwZPR2k04IAYLHiTMDwTwQhTzxNvhYmZ+p+8TNP2ybxzY\"}},{\"time\":1746719457994,\"item\":{\"k\":\"fwcim\",\"r\":\"NFYHZP85QFZ48H2AH6PC\",\"p\":\"https://www.amazon.co.uk/\",\"c\":null,\"t\":1746719457994,\"type\":\"inc\",\"md\":\"ECdITeCs:XEgSwo56QJf80LjNEiu/bcBWbtvujQOcHFjvyYuQ9rHVDlMfJ0ryHY3Kz2G1KxD2F0zVh4m9lCvtqbRc5XDC5mbn7LIs1wOIsBZwuL/MExwBFKE6L4C1fiw/wfSAMQdFgB3Tn2ZJ8M3klpz50PVa4tbVmlpEczrDpWxMKHE35Z32t2HuokkODf0PWkSMacCUYqj30qwdAhm8MG9QR+pXhF/rRBIfkR4EnlVmaXd7E1wKDsB/qeYdqks42F0rNzRKJ7VSUKjQDU3k5xvAOKEXoCqToYPt3XZDC4e00bteOy5kd92bLwuMQrj70cvdG3+XnE00bM0U7vQtH/cDMezhHUuZOEHvghJTh5aQwQz6zjLQl3rLx1e5SLkCZJjJwBiVjpPcbTEuJp/m2WbmcvzCdzlnYmgkqhVLJKcUEuw6CfMq9b5kkxz+xgWrtymH/i8l2YkfnAk778umJTgrontxUAoMutYy17dodDf7B4Ys/Xjtz+DhpWndzePcvkTSLt6aHdFoqy6WxW/KqXm3jxPAL4oIP7Mz+yTY9by3bItyrIGTEK98dPzThNoD2k4Cl4aeoMWijQ==\"}}]",
+    "eelsts": "scs"
+  },
+  "cookies": [
+    {
+      "name": "session-id",
+      "value": "259-4325877-4853656",
+      "domain": ".amazon.co.uk",
+      "path": "/",
+      "expires": 1778255433.464371,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session-id-time",
+      "value": "2082787201l",
+      "domain": ".amazon.co.uk",
+      "path": "/",
+      "expires": 1778255433.464942,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i18n-prefs",
+      "value": "GBP",
+      "domain": ".amazon.co.uk",
+      "path": "/",
+      "expires": 1778255433.464959,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sp-cdn",
+      "value": "\"L5Z9:US\"",
+      "domain": ".amazon.co.uk",
+      "path": "/",
+      "expires": 1778255433.464971,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ubid-acbuk",
+      "value": "260-6627116-3724544",
+      "domain": ".amazon.co.uk",
+      "path": "/",
+      "expires": 1778255434.783567,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csm-hit",
+      "value": "tb:NFYHZP85QFZ48H2AH6PC+s-NFYHZP85QFZ48H2AH6PC|1746719436056&t:1746719436056&adb:adblk_no",
+      "domain": "www.amazon.co.uk",
+      "path": "/",
+      "expires": 1776959436,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1781279436.554818,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "session-token",
+      "value": "\"C/NVjc8ppKZhLn4+KwtsPpD79qGt2AHA8VEAH4kPV+wGNw+mXy1bUTIDb5HQ15ah8RaFYwwNxJAJOMDSh9CzgidLCm1wMonFpobs4nLXTRE+e7aonSSQ3s6P6+FYhtkXhfwPe76GftPmfKBcwE4wuXklBb1WJ6k73uZh35pV1Skx1CYc4qYAzQVwlhNu4uDKzqh6HUTyDARWoIGvV2RkggjWHsR2LTbkNMoXza+2CVn01WsvElOHCE0GG0QvesZUcxZvMvrRy5zCHg1mIvXG6x4zt2LGzpn+TPIsJNXHSldtmYqgs2fJETk9zbdat9w4lcPpZBHdkNgwFwCYRapjvd+qqs7xJgUhT5zmBFgc7b8=\"",
+      "domain": ".amazon.co.uk",
+      "path": "/",
+      "expires": 1778255436.933987,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ]
+}

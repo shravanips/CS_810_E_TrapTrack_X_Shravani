@@ -1,0 +1,2157 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>TrapTrack Privacy Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; background: #f9f9f9; }
+        h1 { color: #333; }
+        h2 { color: #0077cc; }
+        .section { margin-bottom: 30px; }
+        pre { background: #eee; padding: 10px; overflow: auto; }
+        img { max-width: 45%; margin: 10px 2%; border: 1px solid #ccc; }
+        .risk-high { color: red; font-weight: bold; }
+        .risk-medium { color: orange; font-weight: bold; }
+        .risk-low { color: green; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>TrapTrack Privacy Risk Report</h1>
+    <p><strong>Generated:</strong> 2025-05-08 12:29:58</p>
+
+    <div class="section">
+        <h2>📸 Screenshots (Before vs After)</h2>
+<img src="screenshots/euronews_before.png" alt="euronews_before.png"><img src="screenshots/euronews_after.png" alt="euronews_after.png">
+    </div>
+    <div class="section">
+        <h2>🍪 Pre-Consent Cookies</h2>
+        <pre>[
+  {
+    "name": "euronewsUUID",
+    "value": "d4bee69b-8627-4b32-9b30-df54560f5882",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1778257719,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_cb",
+    "value": "DmF2tfCMsgIyBuwl9",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1780849720,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_chartbeat2",
+    "value": ".1746721720217.1746721720217.1.3e3fcCD09I2l9sIpDEMxiCTuayg.1",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1780849720,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cb_svref",
+    "value": "external",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1746723520,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AMCV_237E3E1059F2E95E0A495E5D%40AdobeOrg",
+    "value": "179643557%7CMCIDTS%7C20217%7CvVersion%7C5.5.0",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1780885720,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "didomi_token",
+    "value": "eyJ1c2VyX2lkIjoiMTk2YjBiYTQtODUyYS02MzdjLTljYmUtNmEyNmZjOTcxYjg5IiwiY3JlYXRlZCI6IjIwMjUtMDUtMDhUMTY6Mjg6NDAuNDAyWiIsInVwZGF0ZWQiOiIyMDI1LTA1LTA4VDE2OjI4OjQwLjQwMloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1762536520,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]</pre>
+        <h2>🍪 Post-Consent Cookies</h2>
+        <pre>[
+  {
+    "name": "Subject-Id",
+    "value": "thetradedesk-3cfe50de-7cd5-4430-8b29-399eb6074ece",
+    "domain": ".placed.com",
+    "path": "/api/v2/sync",
+    "expires": 1781281729.761287,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_li_ss",
+    "value": "CgASDw269_v3EggKBgj0ARDaGg",
+    "domain": "i.liadm.com",
+    "path": "/s",
+    "expires": 1749313733.741706,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "euronewsUUID",
+    "value": "d4bee69b-8627-4b32-9b30-df54560f5882",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1778257767,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_cb",
+    "value": "DmF2tfCMsgIyBuwl9",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1780849767,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "demdex",
+    "value": "20809566586070806914534390418306928956",
+    "domain": ".demdex.net",
+    "path": "/",
+    "expires": 1762273724.80263,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCVS_237E3E1059F2E95E0A495E5D%40AdobeOrg",
+    "value": "1",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "didomi_token",
+    "value": "eyJ1c2VyX2lkIjoiMTk2YjBiYTQtODUyYS02MzdjLTljYmUtNmEyNmZjOTcxYjg5IiwiY3JlYXRlZCI6IjIwMjUtMDUtMDhUMTY6Mjg6NDAuNDAyWiIsInVwZGF0ZWQiOiIyMDI1LTA1LTA4VDE2OjI4OjQxLjQ1OFoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6bm9ubGktQUpmNEE0RTQiLCJjOmdvb2dsZWFuYS00VFhuSmlnUiIsImM6YWRzbG90LWdxc3l3QTRNIiwiYzphZG1vYiIsImM6cG9vb2wtMmRrS0t6bU0iLCJjOmdvb2dsZWFuYS05RXBiVm5hNyIsImM6Y2hhcnRiZWF0LVh3bWFFSGNSIiwiYzpjcmFzaGx5dGljLWE4OWFYU3dpIiwiYzphZG9iZWFuYWwteE1QRXBaRWIiLCJjOmFkanVzdC1jY0pIWDZRZSIsImM6aW5zaWRlci1ORlA3WXE5RiIsImM6cG9vb2wtZzlmM1JXY2MiLCJjOmdvb2dsZWFuYS02N0ZVRUpKcSJdfSwicHVycG9zZXMiOnsiZGlzYWJsZWQiOlsiZ2VvbG9jYXRpb25fZGF0YSIsImRldmljZV9jaGFyYWN0ZXJpc3RpY3MiLCJtZXN1cmVybC1VZzMzQnpGNCIsImdlb19hZHMiLCJnZW9fbWFya2V0aW5nX3N0dWRpZXMiXX0sInZlbmRvcnNfbGkiOnsiZW5hYmxlZCI6WyJnb29nbGUiXX0sInZlcnNpb24iOjIsImFjIjoiQUFBQS5OYU9BYUFGa0FtNEI3Z0lrZ2dZQkN1Q09jRkE0S0VRVTZnczFCaTJOYU1BQSJ9",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1762536521,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "euconsent-v2",
+    "value": "CQRF4gAQRF4gAAHABBENBpFgAAAAAEPgAAAAAAAT9gggALAAcABUAC4AHAAPAAgABIACoAGQANAAjgBMACgAFUAMQAaAA_ACEAEQAI4ATgAowBWgDDAGUANEAcgA5wB3AD2AH7AQcBCACLAEYgI4AjoBJQDaAHUAO2Af8BDoCJwEegJkAUeAp8BUoC1AFsALzAX0AxYBkgDJwGXANNAbqA5MBywEBAIJgTeAnWBP0AAA.YAAACHwAAAAA",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1762536521,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "euronews-consent-status",
+    "value": "1",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1778257721,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "s_cc",
+    "value": "true",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dpm",
+    "value": "20809566586070806914534390418306928956",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "expires": 1762273724.802698,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCV_237E3E1059F2E95E0A495E5D%40AdobeOrg",
+    "value": "179643557%7CMCIDTS%7C20217%7CMCMID%7C20327335161312998074483851700088972304%7CMCAAMLH-1747326521%7C7%7CMCAAMB-1747326521%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1746728921s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20224%7CvVersion%7C5.5.0",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1780885722,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "rlas3",
+    "value": "UvSYyEqOI44ByCYnDAzezFIz17BBFgMoKV+U5sK6c3g=",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "expires": 1778257722.393063,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pxrc",
+    "value": "CLq388AGEgUI6AcQABIGCPHrARAA",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "expires": 1751905722.393104,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "33x_ps",
+    "value": "u%3D213107072985591%3As1%3D1746721722751%3Ats%3D1746721722751",
+    "domain": ".33across.com",
+    "path": "/",
+    "expires": 1778257723.732261,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uuid2",
+    "value": "7029518304848341931",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1754497733.111805,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUmkZEyAOZ77I6pfe7u1pZdtDtntQE720PZqF_tWrp_1U249aa3eoZ5LpR6JYyg",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1781281722.791343,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "fbh0",
+    "value": "%7B%7D",
+    "domain": ".yieldoptimizer.com",
+    "path": "/",
+    "expires": 1778257722.850791,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gcma",
+    "value": "%7B%22t%22%3A0%2C%22o%22%3Afalse%7D",
+    "domain": ".yieldoptimizer.com",
+    "path": "/",
+    "expires": 1778257722.850809,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "rmxc",
+    "value": "%7B%22t%22%3A0%2C%22e%22%3A%22%22%2C%22i%22%3Afalse%7D",
+    "domain": ".yieldoptimizer.com",
+    "path": "/",
+    "expires": 1778257722.85082,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cktst",
+    "value": "211542408",
+    "domain": ".yieldoptimizer.com",
+    "path": "/",
+    "expires": 1778257722.798924,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pi",
+    "value": "3652481882581368885",
+    "domain": ".ml314.com",
+    "path": "/",
+    "expires": 1778257722.822795,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ckid",
+    "value": "2035089026345",
+    "domain": ".yieldoptimizer.com",
+    "path": "/",
+    "expires": 1778257722.85083,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dph",
+    "value": "%7B%22t%22%3A%5B143320%5D%2C%22dp%22%3A%5B2233%5D%7D",
+    "domain": ".yieldoptimizer.com",
+    "path": "/",
+    "expires": 1778257722.850837,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ph",
+    "value": "%7B%22p%22%3A%5B1025%5D%2C%22t%22%3A%5B143320%5D%7D",
+    "domain": ".yieldoptimizer.com",
+    "path": "/",
+    "expires": 1778257722.850846,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "mako_uid",
+    "value": "196b0ba527e-56360000010a4f15",
+    "domain": ".eyeota.net",
+    "path": "/",
+    "expires": 1778257722.984487,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SERVERID",
+    "value": "20245~DM",
+    "domain": ".eyeota.net",
+    "path": "/",
+    "expires": 1746722323.030747,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dextp",
+    "value": "60-1-1746721721926|358-1-1746721722028|477-1-1746721722129|601-1-1746721722230|771-1-1746721722332|22069-1-1746721722434|22052-1-1746721722536|30064-1-1746721722637|73426-1-1746721722739|121998-1-1746721722840|285689-1-1746721722941|87898-1-1746721723042",
+    "domain": ".demdex.net",
+    "path": "/",
+    "expires": 1762273723,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_lr_retry_request",
+    "value": "true",
+    "domain": "www.euronews.com",
+    "path": "/",
+    "expires": 1746725323,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_lr_env_src_ats",
+    "value": "false",
+    "domain": "www.euronews.com",
+    "path": "/",
+    "expires": 1749313723,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ASP.NET_SessionId",
+    "value": "xahcx4ppf3xjeikf3tm1aotj",
+    "domain": "global.ib-ibi.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cc_dc",
+    "value": "0",
+    "domain": ".crwdcntrl.net",
+    "path": "/",
+    "expires": 1770048120.960482,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cc_id",
+    "value": "1c321f50ddace8e4905eed8dcbf8bfa9",
+    "domain": ".crwdcntrl.net",
+    "path": "/",
+    "expires": 1770048120.960525,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ASP.NET_SessionId",
+    "value": "qp10r1dc4xl0fqexdatolio1",
+    "domain": "ib.mookie1.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1778257769.297638,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ibkukiuno",
+    "value": "s=1b6cbb1c-cdee-47f4-bf45-cd6f36f4adf0&h=&v=0&l=-8584548851608745475&op=&hl=0&vlu=0&tcs=1&dcc=-8584548851610344026",
+    "domain": ".ib.mookie1.com",
+    "path": "/",
+    "expires": 1778257724.585641,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__eoi",
+    "value": "ID=51c8f037ba54f93b:T=1746721725:RT=1746721725:S=AA-AfjYSOWMdMWxr9DCbeGI4Hzaj",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1762273725,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.846314749.1746721726",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1754497726,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "TDID",
+    "value": "af21afa2-525f-4b91-8baf-3eca7ef5fd93",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1778257734.57087,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_TS",
+    "value": "1746721730156",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1751905732.396082,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_DID",
+    "value": "238d0cdf-55dd-4e8e-bf34-7806faaafede",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1751905732.396134,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMID",
+    "value": "aBzbwtHM55wAFx4pAEIulQAA",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1778257746.065648,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPS",
+    "value": "5675",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1754497730.754969,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPRO",
+    "value": "5675",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1754497746.065726,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_lr_sampling_rate",
+    "value": "0",
+    "domain": "www.euronews.com",
+    "path": "/",
+    "expires": 1747326530,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "b",
+    "value": "681CDBC3C62EBBF50C570BF0_",
+    "domain": ".blismedia.com",
+    "path": "/",
+    "expires": 1778261731.171352,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ssi",
+    "value": "d36a5820-45ac-434c-8039-21b3a421acf8#1746721731237",
+    "domain": ".sitescout.com",
+    "path": "/",
+    "expires": 1778257732.710133,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ad-id",
+    "value": "A0NdnaDQNk5qiUWAY0Inbh0",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "expires": 1767284931.276787,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ad-privacy",
+    "value": "0",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "expires": 1781281731.276915,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_3WAY_SYNCS",
+    "value": "",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1751905732.39615,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ssuma",
+    "value": "eyIyNCI6MTc0NjcyMTczMjczMywiMzkiOjE3NDY3MjE3MzEyNzcsIjciOjE3NDY3MjE3MzEyNzd9",
+    "domain": ".sitescout.com",
+    "path": "/",
+    "expires": 1749313732.710198,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "A3",
+    "value": "d=AQABBMXbHGgCEGUm9IYHh266OsmwFloaAUAFEgEBAQEtHmgmaAAAAAAA_eMAAA&S=AQAAAp1LcOPwULGSz11WikOXqwg",
+    "domain": ".yahoo.com",
+    "path": "/",
+    "expires": 1778279344.708727,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bito",
+    "value": "AARfRU7QObgAABtyk-s9hw",
+    "domain": ".bidr.io",
+    "path": "/",
+    "expires": 1780835333.543656,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bitoIsSecure",
+    "value": "ok",
+    "domain": ".bidr.io",
+    "path": "/",
+    "expires": 1780835333.543707,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CDIUSER",
+    "value": "di_26dfbb1d06094d23b396f",
+    "domain": ".deepintent.com",
+    "path": "/",
+    "expires": 1781281733.546871,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CDIPARTNERS",
+    "value": "%7B%221%22%3A%2220250508%22%7D",
+    "domain": ".deepintent.com",
+    "path": "/",
+    "expires": 1781281733.547098,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__adroll",
+    "value": "1debdc50570fa2cb6683b2c8990fa7b4-a_1746721733",
+    "domain": ".d.adroll.com",
+    "path": "/",
+    "expires": 1780849733.679062,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".d.adroll.com",
+    "path": "/",
+    "expires": 1780849733.679101,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".adroll.com",
+    "path": "/",
+    "expires": 1780849733.679113,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__adroll_shared",
+    "value": "1debdc50570fa2cb6683b2c8990fa7b4-a_1746721733",
+    "domain": ".adroll.com",
+    "path": "/",
+    "expires": 1780849733.679123,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lidid",
+    "value": "4716d60c-2fe6-4e89-8fb6-cb12c095cff9",
+    "domain": ".liadm.com",
+    "path": "/",
+    "expires": 1781281733.741731,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "g",
+    "value": "qb3NE7PI4u9y3gm6ATSi_1746721733837",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "expires": 1778257733.849413,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ts",
+    "value": "1746721733",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "expires": 1778257733.849455,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_pubcid",
+    "value": "85d88c50-d343-4ad9-aa21-85e387966cdc",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1762273733,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_pubcid_cst",
+    "value": "zix7LPQsHA%3D%3D",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1762273733,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "visitor",
+    "value": "332a4fc8-dde8-4667-9f67-23d675470d8d",
+    "domain": ".postrelease.com",
+    "path": "/",
+    "expires": 1778257733.978387,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "status",
+    "value": "0",
+    "domain": ".postrelease.com",
+    "path": "/",
+    "expires": 1778257733.978446,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "opt_out",
+    "value": "2",
+    "domain": ".postrelease.com",
+    "path": "/",
+    "expires": 1778257733.967583,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ver",
+    "value": "1",
+    "domain": ".postrelease.com",
+    "path": "/",
+    "expires": 1778257733.978464,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TDCPM",
+    "value": "CAESFQoGY2FzYWxlEgsI2OKksu6Vhz4QBRgBIAEoAjILCJKF7v6Eloc-EAU4AVoHYnJnZXUyM2AC",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1778257734.570934,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sa-user-id",
+    "value": "s%3A0-1e468b70-e0da-5203-4126-20b2f3644884.QIzuDVqTVtD2vlIMfxi4VB9PasaGYPc%2BjJ9zNkaL4v8",
+    "domain": "sync.srv.stackadapt.com",
+    "path": "/",
+    "expires": 1778257735.199739,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sa-user-id",
+    "value": "s%3A0-1e468b70-e0da-5203-4126-20b2f3644884.QIzuDVqTVtD2vlIMfxi4VB9PasaGYPc%2BjJ9zNkaL4v8",
+    "domain": ".srv.stackadapt.com",
+    "path": "/",
+    "expires": 1778257735.199775,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sa-user-id-v2",
+    "value": "s%3AHkaLcODaUgNBJiCy82RIhEvLbm0.TNDqiLjVZ69oXHBmJ65kF%2F0hu%2FcDVJlYPjIgh8ku9VM",
+    "domain": "sync.srv.stackadapt.com",
+    "path": "/",
+    "expires": 1778257735.199786,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sa-user-id-v2",
+    "value": "s%3AHkaLcODaUgNBJiCy82RIhEvLbm0.TNDqiLjVZ69oXHBmJ65kF%2F0hu%2FcDVJlYPjIgh8ku9VM",
+    "domain": ".srv.stackadapt.com",
+    "path": "/",
+    "expires": 1778257735.199795,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sa-user-id-v3",
+    "value": "s%3AAQAKIFspPW22kLl2UEX7A2CLKzfOs0jTzD0oCwf18oLUId-kEAIYAyDHt_PABjABOgSWJ8L6QgRGfiI8.t38q89u3Ek1NkllxJC8ctPZzKDL2amR%2B8yYDndhhWfI",
+    "domain": "sync.srv.stackadapt.com",
+    "path": "/",
+    "expires": 1778257735.199803,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sa-user-id-v3",
+    "value": "s%3AAQAKIFspPW22kLl2UEX7A2CLKzfOs0jTzD0oCwf18oLUId-kEAIYAyDHt_PABjABOgSWJ8L6QgRGfiI8.t38q89u3Ek1NkllxJC8ctPZzKDL2amR%2B8yYDndhhWfI",
+    "domain": ".srv.stackadapt.com",
+    "path": "/",
+    "expires": 1778257735.199813,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "mc",
+    "value": "eyJpZCI6ImIzNThlYjc2LTc1YzYtNDA0Yi1hZWI5LWRmMDQ3ZTg1MGM3NSIsImwiOjE3NDY3MjE3MzUzMTMsInQiOjR9",
+    "domain": ".thrtle.com",
+    "path": "/",
+    "expires": 1764001735.26612,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sc",
+    "value": "eyJpIjoiNDdlMTQ2ODctNDQ2YS00YmZmLTk2MDEtZDUwZGNkYTkxYTdmIiwic2lkIjoic2lkLTg5MGQ4NmI5LTJjMjktMTFmMC04ZTk0LTAyNDIwYWZmMTlkNSIsIm1zIjoyLCJwcyI6Miwic3AiOjUwNDQsInBwIjoyLCJ0c2UiOjIsImx0c2UiOjE3NDY3MjE3MzQ2NDl9",
+    "domain": ".thrtle.com",
+    "path": "/",
+    "expires": 1764001735.266165,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ayl_visitor",
+    "value": "33bb49c6ec43f68ed294d11de103255e",
+    "domain": ".omnitagjs.com",
+    "path": "/",
+    "expires": 1749313744.000241,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bcookie",
+    "value": "\"v=2&1ac39485-e520-470b-83fa-c1dee215aa4f\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1778257745.11778,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lidc",
+    "value": "\"b=OGST08:s=O:r=O:a=O:p=O:g=3195:u=1:x=1:i=1746721744:t=1746808144:v=2:sig=AQFUkll01E7EtqY_hGvMigFbeNj6wtxQ\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1746808145.117836,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uid",
+    "value": "2562595777770641557",
+    "domain": ".turn.com",
+    "path": "/",
+    "expires": 1762273744.828354,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "mc",
+    "value": "681cdbd0-d0087-8b463-584d9",
+    "domain": ".quantserve.com",
+    "path": "/",
+    "expires": 1780936144.836596,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sp",
+    "value": "CgkIhf8CEgMQog8=",
+    "domain": ".quantserve.com",
+    "path": "/",
+    "expires": 1754497744.880159,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tuuid",
+    "value": "e16c835f-3ae0-4f27-82e3-c3ec5b2ff20c",
+    "domain": ".company-target.com",
+    "path": "/",
+    "expires": 1780936144.942596,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tuuid_lu",
+    "value": "1746721744|ix:0",
+    "domain": ".company-target.com",
+    "path": "/",
+    "expires": 1780936144.942636,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "zuid",
+    "value": "RRb6qS8xjc-tyaHOAxow",
+    "domain": ".zemanta.com",
+    "path": "/",
+    "expires": 1778257745.394496,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "obuid",
+    "value": "e8ac9669-d1d1-44bd-8a30-4a578dd50c51",
+    "domain": ".outbrain.com",
+    "path": "/",
+    "expires": 1778257745.352318,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "viewer_token",
+    "value": "4503108c-e260-4d69-818b-c7b074fdfcaf",
+    "domain": ".csync.loopme.me",
+    "path": "/",
+    "expires": 1754670545.384402,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "UID",
+    "value": "OPU1d32af09bebf4169af641b49b24c566f",
+    "domain": ".adx.opera.com",
+    "path": "/",
+    "expires": 1778257746.006619,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_chartbeat5",
+    "value": "",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1746721827,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_sq",
+    "value": "%5B%5BB%5D%5D",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_chartbeat2",
+    "value": ".1746721720217.1746721767889.1.BCtdQzljXRyCf32Qz_UnM0BmR7V1.1",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1780849767,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cb_svref",
+    "value": "external",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1746723567,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cto_bundle",
+    "value": "QD8Mz19iRUJ5SncxRE9DMnUlMkZLSjNSVGhSRnJRb2hGRU9saFBsSlZ4anNzb1dxUzg3JTJGT3VDR3Z6cFdGaldldjlrQ0lDNnJXRXI2bVRsbGtWVllYVmIlMkZZU2Y2SFlBcUpmMVlTRUF5JTJCY0QxWWNpNHhQTE8lMkJlVnA4dUZDZnlDemg1T2olMkJ2Rw",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1780403370,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cto_bidid",
+    "value": "f_Zuel83RHcxSjZXMU12RXUzS3pRd1BlMHlQOTZiQm82d2ZHN0V2akpGbFByQnVNMkpIekZ0dXAwbVUzdWFiNVVLY21uJTJCMHNHeTExcm9kQTU3M00xNU82RmZRJTNEJTNE",
+    "domain": ".euronews.com",
+    "path": "/",
+    "expires": 1780403370,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]</pre>
+    </div>
+
+    <div class="section">
+        <h2>🌍 GeoIP Tracker Locations</h2>
+        <pre>{
+  "c.amazon-adsystem.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "timezone": "America/Chicago",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "query": "13.249.41.182"
+  },
+  "s.seedtag.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO",
+    "regionName": "Missouri",
+    "city": "Kansas City",
+    "zip": "",
+    "lat": 39.0997,
+    "lon": -94.5785,
+    "timezone": "America/Chicago",
+    "isp": "Google LLC",
+    "org": "Google Cloud",
+    "as": "AS396982 Google LLC",
+    "query": "34.149.50.64"
+  },
+  "capi.connatix.com": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Toronto",
+    "zip": "M5A",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "timezone": "America/Toronto",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare, Inc.",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "172.64.146.152"
+  },
+  "26ed80d323c449d3eea1522a78b35da4.safeframe.googlesyndication.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Mountain View",
+    "zip": "94043",
+    "lat": 37.4225,
+    "lon": -122.085,
+    "timezone": "America/Los_Angeles",
+    "isp": "Google LLC",
+    "org": "Google LLC",
+    "as": "AS15169 Google LLC",
+    "query": "142.250.31.132"
+  },
+  "vtrk.doubleverify.com": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Toronto",
+    "zip": "M5A",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "timezone": "America/Toronto",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare, Inc.",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "172.64.145.17"
+  },
+  "ms-cookie-sync.presage.io": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "timezone": "America/New_York",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (us-east-1)",
+    "as": "AS14618 Amazon.com, Inc.",
+    "query": "34.192.199.220"
+  },
+  "at.teads.tv": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0469,
+    "lon": -77.4903,
+    "timezone": "America/New_York",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS16625 Akamai Technologies, Inc.",
+    "query": "23.222.197.199"
+  },
+  "2795ff0a8486ac41a815ea2b5a449bb6.safeframe.googlesyndication.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Mountain View",
+    "zip": "94043",
+    "lat": 37.4225,
+    "lon": -122.085,
+    "timezone": "America/Los_Angeles",
+    "isp": "Google LLC",
+    "org": "Google LLC",
+    "as": "AS15169 Google LLC",
+    "query": "172.253.115.132"
+  },
+  "848c9c15f653897bd04a0499702753cf.safeframe.googlesyndication.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Mountain View",
+    "zip": "94043",
+    "lat": 37.4225,
+    "lon": -122.085,
+    "timezone": "America/Los_Angeles",
+    "isp": "Google LLC",
+    "org": "Google LLC",
+    "as": "AS15169 Google LLC",
+    "query": "142.251.167.132"
+  },
+  "cm.g.doubleclick.net": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Mountain View",
+    "zip": "94043",
+    "lat": 37.4225,
+    "lon": -122.085,
+    "timezone": "America/Los_Angeles",
+    "isp": "Google LLC",
+    "org": "Google LLC",
+    "as": "AS15169 Google LLC",
+    "query": "172.253.115.155"
+  },
+  "creativecdn.com": {
+    "status": "success",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "region": "NH",
+    "regionName": "North Holland",
+    "city": "Amsterdam",
+    "zip": "1012",
+    "lat": 52.3759,
+    "lon": 4.8975,
+    "timezone": "Europe/Amsterdam",
+    "isp": "RTB-HOUSE",
+    "org": "RTB House S.A.",
+    "as": "AS204995 RTB Marketing and Tech Services Ltd",
+    "query": "185.184.8.90"
+  },
+  "tapestry.tapad.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO",
+    "regionName": "Missouri",
+    "city": "Kansas City",
+    "zip": "",
+    "lat": 39.0997,
+    "lon": -94.5785,
+    "timezone": "America/Chicago",
+    "isp": "Google LLC",
+    "org": "Google Cloud",
+    "as": "AS396982 Google LLC",
+    "query": "34.111.113.62"
+  },
+  "vi.ml314.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO",
+    "regionName": "Missouri",
+    "city": "Kansas City",
+    "zip": "",
+    "lat": 39.0997,
+    "lon": -94.5785,
+    "timezone": "America/Chicago",
+    "isp": "Google LLC",
+    "org": "Google Cloud",
+    "as": "AS396982 Google LLC",
+    "query": "35.201.104.135"
+  },
+  "dpm.demdex.net": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "timezone": "America/New_York",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (us-east-1)",
+    "as": "AS14618 Amazon.com, Inc.",
+    "query": "52.21.110.150"
+  },
+  "secure.adnxs.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY",
+    "regionName": "New York",
+    "city": "New York",
+    "zip": "10014",
+    "lat": 40.7365,
+    "lon": -74.0055,
+    "timezone": "America/New_York",
+    "isp": "AppNexus",
+    "org": "AdNexus",
+    "as": "AS29990 Xandr Inc.",
+    "query": "68.67.160.186"
+  },
+  "fastlane.rubiconproject.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Sterling",
+    "zip": "20163",
+    "lat": 39.0067,
+    "lon": -77.4291,
+    "timezone": "America/Chicago",
+    "isp": "The Rubicon Project, Inc.",
+    "org": "The Rubicon Project, Inc.",
+    "as": "AS26667 Magnite, Inc.",
+    "query": "69.173.146.10"
+  },
+  "ib.adnxs.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY",
+    "regionName": "New York",
+    "city": "New York",
+    "zip": "10014",
+    "lat": 40.7365,
+    "lon": -74.0055,
+    "timezone": "America/New_York",
+    "isp": "AppNexus",
+    "org": "AdNexus",
+    "as": "AS29990 Xandr Inc.",
+    "query": "68.67.160.76"
+  },
+  "t.pubmatic.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "timezone": "America/Chicago",
+    "isp": "PubMatic, Inc.",
+    "org": "Level 3, LLC",
+    "as": "AS62713 PubMatic, Inc.",
+    "query": "8.28.7.92"
+  },
+  "g2.gumgum.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "timezone": "America/New_York",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (us-east-1)",
+    "as": "AS14618 Amazon.com, Inc.",
+    "query": "54.204.174.64"
+  },
+  "serve.akiads.net": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR",
+    "regionName": "Oregon",
+    "city": "Portland",
+    "zip": "97207",
+    "lat": 45.5235,
+    "lon": -122.676,
+    "timezone": "America/Los_Angeles",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (us-west-2)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "query": "34.210.174.87"
+  },
+  "completion.amazon.co.uk": {
+    "status": "success",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "region": "L",
+    "regionName": "Leinster",
+    "city": "Dublin",
+    "zip": "D02",
+    "lat": 53.3498,
+    "lon": -6.26031,
+    "timezone": "Europe/Dublin",
+    "isp": "Amazon Technologies Inc.",
+    "org": "Amazon Technologies Inc. (eu-west-1)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "query": "3.253.177.216"
+  },
+  "ml314.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO",
+    "regionName": "Missouri",
+    "city": "Kansas City",
+    "zip": "",
+    "lat": 39.0997,
+    "lon": -94.5785,
+    "timezone": "America/Chicago",
+    "isp": "Google LLC",
+    "org": "Google Cloud",
+    "as": "AS396982 Google LLC",
+    "query": "34.117.77.79"
+  },
+  "cdn.doubleverify.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0469,
+    "lon": -77.4903,
+    "timezone": "America/New_York",
+    "isp": "Akamai International B.V.",
+    "org": "Akamai Technologies",
+    "as": "AS20940 Akamai International B.V.",
+    "query": "2600:1408:c400:59::17d5:9e14"
+  },
+  "launchpad-wrapper.privacymanager.io": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DC",
+    "regionName": "District of Columbia",
+    "city": "Washington",
+    "zip": "20068",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "timezone": "America/New_York",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "query": "3.171.76.92"
+  },
+  "unagi-eu.amazon.com": {
+    "status": "success",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "region": "L",
+    "regionName": "Leinster",
+    "city": "Dublin",
+    "zip": "D02",
+    "lat": 53.3498,
+    "lon": -6.26031,
+    "timezone": "Europe/Dublin",
+    "isp": "Amazon Technologies Inc.",
+    "org": "Amazon Technologies Inc. (eu-west-1)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "query": "3.254.238.10"
+  },
+  "assets.poool.fr": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Toronto",
+    "zip": "M5A",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "timezone": "America/Toronto",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare, Inc.",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "172.67.72.58"
+  },
+  "tps.doubleverify.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MO",
+    "regionName": "Missouri",
+    "city": "Kansas City",
+    "zip": "",
+    "lat": 39.0997,
+    "lon": -94.5785,
+    "timezone": "America/Chicago",
+    "isp": "Google LLC",
+    "org": "Google Cloud",
+    "as": "AS396982 Google LLC",
+    "query": "34.117.228.201"
+  },
+  "cm.everesttech.net": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "timezone": "America/New_York",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (us-east-1)",
+    "as": "AS14618 Amazon.com, Inc.",
+    "query": "54.175.198.15"
+  },
+  "api.poool.fr": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Toronto",
+    "zip": "M5A",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "timezone": "America/Toronto",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare, Inc.",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.26.9.21"
+  },
+  "b1sync.zemanta.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL",
+    "regionName": "Illinois",
+    "city": "Chicago",
+    "zip": "60666",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "timezone": "America/Chicago",
+    "isp": "Outbrain, Inc.",
+    "org": "DEFT.COM",
+    "as": "AS22075 Outbrain, Inc.",
+    "query": "50.31.142.127"
+  },
+  "www.euronews.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "San Francisco",
+    "zip": "94107",
+    "lat": 37.7642,
+    "lon": -122.3993,
+    "timezone": "America/Los_Angeles",
+    "isp": "Fastly, Inc.",
+    "org": "Fastly, Inc.",
+    "as": "AS54113 Fastly, Inc.",
+    "query": "151.101.129.91"
+  },
+  "r.casalemedia.com": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Toronto",
+    "zip": "M5A",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "timezone": "America/Toronto",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare, Inc.",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.18.26.193"
+  },
+  "s.ntv.io": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0469,
+    "lon": -77.4903,
+    "timezone": "America/New_York",
+    "isp": "Akamai International B.V.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS20940 Akamai International B.V.",
+    "query": "23.212.249.74"
+  },
+  "prebid.videostep.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "DC",
+    "regionName": "District of Columbia",
+    "city": "Washington",
+    "zip": "20068",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "timezone": "America/New_York",
+    "isp": "Total Uptime Technologies, LLC",
+    "org": "Total Uptime Technologies, LLC",
+    "as": "AS53334 Total Uptime Technologies, LLC",
+    "query": "162.252.213.81"
+  },
+  "be.durationmedia.net": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "timezone": "America/New_York",
+    "isp": "Amazon.com",
+    "org": "AWS EC2 (us-east-1)",
+    "as": "AS14618 Amazon.com, Inc.",
+    "query": "44.206.101.126"
+  },
+  "l.euronews.com": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "QC",
+    "regionName": "Quebec",
+    "city": "Montreal",
+    "zip": "H4X",
+    "lat": 45.5019,
+    "lon": -73.5674,
+    "timezone": "America/Toronto",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare, Inc.",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "2606:4700:10::ac43:170c"
+  },
+  "endpoint-qwrap.prebidmanager.com": {
+    "status": "success",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": "SN",
+    "regionName": "Saxony",
+    "city": "Falkenstein",
+    "zip": "08223",
+    "lat": 50.4777,
+    "lon": 12.3649,
+    "timezone": "Europe/Berlin",
+    "isp": "Hetzner Online GmbH",
+    "org": "Hetzner Online GmbH",
+    "as": "AS24940 Hetzner Online GmbH",
+    "query": "142.132.240.97"
+  },
+  "px.ads.linkedin.com": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "QC",
+    "regionName": "Quebec",
+    "city": "Montreal",
+    "zip": "H4X",
+    "lat": 45.5019,
+    "lon": -73.5674,
+    "timezone": "America/Toronto",
+    "isp": "Microsoft Corporation",
+    "org": "Microsoft Corporation",
+    "as": "AS8075 Microsoft Corporation",
+    "query": "150.171.22.12"
+  },
+  "match.prod.bidr.io": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "timezone": "America/New_York",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (us-east-1)",
+    "as": "AS14618 Amazon.com, Inc.",
+    "query": "52.7.60.170"
+  },
+  "choices.truste.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Seattle",
+    "zip": "98101",
+    "lat": 47.6109,
+    "lon": -122.3303,
+    "timezone": "America/Los_Angeles",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "query": "18.160.18.96"
+  },
+  "pub.doubleverify.com": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "QC",
+    "regionName": "Quebec",
+    "city": "Montreal",
+    "zip": "H4X",
+    "lat": 45.5019,
+    "lon": -73.5674,
+    "timezone": "America/Toronto",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare, Inc.",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "2606:4700:4400::6812:2092"
+  },
+  "gw.geoedge.be": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Sterling",
+    "zip": "20163",
+    "lat": 39.0067,
+    "lon": -77.4291,
+    "timezone": "America/Chicago",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "query": "2600:9000:201e:ce00:10:43f:4340:93a1"
+  },
+  "static.euronews.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "San Francisco",
+    "zip": "94107",
+    "lat": 37.7642,
+    "lon": -122.3993,
+    "timezone": "America/Los_Angeles",
+    "isp": "Fastly, Inc.",
+    "org": "Fastly, Inc.",
+    "as": "AS54113 Fastly, Inc.",
+    "query": "151.101.1.91"
+  },
+  "dp2.33across.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "FL",
+    "regionName": "Florida",
+    "city": "Tampa",
+    "zip": "33614",
+    "lat": 28.0199,
+    "lon": -82.5246,
+    "timezone": "America/New_York",
+    "isp": "Steadfast",
+    "org": "Steadfast",
+    "as": "AS32748 Steadfast",
+    "query": "67.202.105.21"
+  },
+  "sync.srv.stackadapt.com": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "VA",
+    "regionName": "Virginia",
+    "city": "Ashburn",
+    "zip": "20149",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "timezone": "America/New_York",
+    "isp": "Amazon Technologies Inc.",
+    "org": "AWS EC2 (us-east-1)",
+    "as": "AS14618 Amazon.com, Inc.",
+    "query": "54.145.76.47"
+  },
+  "launchpad.privacymanager.io": {
+    "error": "HTTP 429"
+  },
+  "fw.adsafeprotected.com": {
+    "error": "HTTP 429"
+  },
+  "casale-match.dotomi.com": {
+    "error": "HTTP 429"
+  },
+  "cdn.qwtag.com": {
+    "error": "HTTP 429"
+  },
+  "ep2.adtrafficquality.google": {
+    "error": "HTTP 429"
+  },
+  "ads.stickyadstv.com": {
+    "error": "HTTP 429"
+  },
+  "images-na.ssl-images-amazon.com": {
+    "error": "HTTP 429"
+  },
+  "eb2.3lift.com": {
+    "error": "HTTP 429"
+  },
+  "sync.sxp.smartclip.net": {
+    "error": "HTTP 429"
+  },
+  "unagi-na.amazon.com": {
+    "error": "HTTP 429"
+  },
+  "109c6adb95fbc7863dadc42210a419a6.safeframe.googlesyndication.com": {
+    "error": "HTTP 429"
+  },
+  "ps.eyeota.net": {
+    "error": "HTTP 429"
+  },
+  "api.rlcdn.com": {
+    "error": "HTTP 429"
+  },
+  "uipglob.semasio.net": {
+    "error": "HTTP 429"
+  },
+  "a252bb51b965609b5faa740c2842429b.safeframe.googlesyndication.com": {
+    "error": "HTTP 429"
+  },
+  "s8t.teads.tv": {
+    "error": "HTTP 429"
+  },
+  "cdn.indexww.com": {
+    "error": "HTTP 429"
+  },
+  "cdn.jsdelivr.net": {
+    "error": "HTTP 429"
+  },
+  "token.rubiconproject.com": {
+    "error": "HTTP 429"
+  },
+  "static.chartbeat.com": {
+    "error": "HTTP 429"
+  },
+  "id.crwdcntrl.net": {
+    "error": "HTTP 429"
+  },
+  "global.ib-ibi.com": {
+    "error": "HTTP 429"
+  },
+  "ib.mookie1.com": {
+    "error": "HTTP 429"
+  },
+  "geo.privacymanager.io": {
+    "error": "HTTP 429"
+  },
+  "cdn.akiads.net": {
+    "error": "HTTP 429"
+  },
+  "rumcdn.geoedge.be": {
+    "error": "HTTP 429"
+  },
+  "cookie-matching.mediarithmics.com": {
+    "error": "HTTP 429"
+  },
+  "td.doubleclick.net": {
+    "error": "HTTP 429"
+  },
+  "jadserve.postrelease.com": {
+    "error": "HTTP 429"
+  },
+  "dsum-sec.casalemedia.com": {
+    "error": "HTTP 429"
+  },
+  "cd.connatix.com": {
+    "error": "HTTP 429"
+  },
+  "id5-sync.com": {
+    "error": "HTTP 429"
+  },
+  "b1sync.outbrain.com": {
+    "error": "HTTP 429"
+  },
+  "78b9e43a8cae7336cdd4da76b8349452.safeframe.googlesyndication.com": {
+    "error": "HTTP 429"
+  },
+  "a3590.casalemedia.com": {
+    "error": "HTTP 429"
+  },
+  "p.placed.com": {
+    "error": "HTTP 429"
+  },
+  "pr-bh.ybp.yahoo.com": {
+    "error": "HTTP 429"
+  },
+  "audex.userreport.com": {
+    "error": "HTTP 429"
+  },
+  "cdn.id5-sync.com": {
+    "error": "HTTP 429"
+  },
+  "www.facebook.com": {
+    "error": "HTTP 429"
+  },
+  "mweb-hb.presage.io": {
+    "error": "HTTP 429"
+  },
+  "mwzeom.zeotap.com": {
+    "error": "HTTP 429"
+  },
+  "api.privacy-center.org": {
+    "error": "HTTP 429"
+  },
+  "cms.quantserve.com": {
+    "error": "HTTP 429"
+  },
+  "pixel-sync.sitescout.com": {
+    "error": "HTTP 429"
+  },
+  "www.temu.com": {
+    "error": "HTTP 429"
+  },
+  "rd.frontend.weborama.fr": {
+    "error": "HTTP 429"
+  },
+  "mab.chartbeat.com": {
+    "error": "HTTP 429"
+  },
+  "gum.criteo.com": {
+    "error": "HTTP 429"
+  },
+  "www.google.com": {
+    "error": "HTTP 429"
+  },
+  "match.deepintent.com": {
+    "error": "HTTP 429"
+  },
+  "www.dianomi.com": {
+    "error": "HTTP 429"
+  },
+  "unagi.amazon.co.uk": {
+    "error": "HTTP 429"
+  },
+  "idsync.rlcdn.com": {
+    "error": "HTTP 429"
+  },
+  "pl.connatix.com": {
+    "error": "HTTP 429"
+  },
+  "mug.criteo.com": {
+    "error": "HTTP 429"
+  },
+  "config.aps.amazon-adsystem.com": {
+    "error": "HTTP 429"
+  },
+  "image6.pubmatic.com": {
+    "error": "HTTP 429"
+  },
+  "tpc.googlesyndication.com": {
+    "error": "HTTP 429"
+  },
+  "fls-eu.amazon.co.uk": {
+    "error": "HTTP 429"
+  },
+  "thrtle.com": {
+    "error": "HTTP 429"
+  },
+  "ep1.adtrafficquality.google": {
+    "error": "HTTP 429"
+  },
+  "euronewsfr.api.useinsider.com": {
+    "error": "HTTP 429"
+  },
+  "static.cloudflareinsights.com": {
+    "error": "HTTP 429"
+  },
+  "euronewsgroup.demdex.net": {
+    "error": "HTTP 429"
+  },
+  "ads.pubmatic.com": {
+    "error": "HTTP 429"
+  },
+  "aax-eu.amazon-adsystem.com": {
+    "error": "HTTP 429"
+  },
+  "s.c.appier.net": {
+    "error": "HTTP 429"
+  },
+  "cds.connatix.com": {
+    "error": "HTTP 429"
+  },
+  "s.amazon-adsystem.com": {
+    "error": "HTTP 429"
+  },
+  "us-u.openx.net": {
+    "error": "HTTP 429"
+  },
+  "aan.amazon.co.uk": {
+    "error": "HTTP 429"
+  },
+  "htlb.casalemedia.com": {
+    "error": "HTTP 429"
+  },
+  "www.googletagmanager.com": {
+    "error": "HTTP 429"
+  },
+  "csync.loopme.me": {
+    "error": "HTTP 429"
+  },
+  "securepubads.g.doubleclick.net": {
+    "error": "HTTP 429"
+  },
+  "hb.yellowblue.io": {
+    "error": "HTTP 429"
+  },
+  "vam-bid.adsrvr.org": {
+    "error": "HTTP 429"
+  },
+  "pixel.tapad.com": {
+    "error": "HTTP 429"
+  },
+  "static.adsafeprotected.com": {
+    "error": "HTTP 429"
+  },
+  "tag.yieldoptimizer.com": {
+    "error": "HTTP 429"
+  },
+  "tpsc-ue1.doubleverify.com": {
+    "error": "HTTP 429"
+  },
+  "i.liadm.com": {
+    "error": "HTTP 429"
+  },
+  "m.media-amazon.com": {
+    "error": "HTTP 429"
+  },
+  "match.adsrvr.org": {
+    "error": "HTTP 429"
+  },
+  "ib.adnxs-simple.com": {
+    "error": "HTTP 429"
+  },
+  "s.company-target.com": {
+    "error": "HTTP 429"
+  },
+  "t.adx.opera.com": {
+    "error": "HTTP 429"
+  },
+  "www.amazon.co.uk": {
+    "error": "HTTP 429"
+  },
+  "ad.turn.com": {
+    "error": "HTTP 429"
+  },
+  "visitor.omnitagjs.com": {
+    "error": "HTTP 429"
+  },
+  "cdn.poool.fr": {
+    "error": "HTTP 429"
+  },
+  "check.analytics.rlcdn.com": {
+    "error": "HTTP 429"
+  },
+  "pagead2.googlesyndication.com": {
+    "error": "HTTP 429"
+  },
+  "wrappers.geoedge.be": {
+    "error": "HTTP 429"
+  },
+  "exchange.postrelease.com": {
+    "error": "HTTP 429"
+  },
+  "ads.scorecardresearch.com": {
+    "error": "HTTP 429"
+  },
+  "dsum.casalemedia.com": {
+    "error": "HTTP 429"
+  },
+  "d.adroll.com": {
+    "error": "HTTP 429"
+  },
+  "js-sec.indexww.com": {
+    "error": "HTTP 429"
+  },
+  "euronewsgroup.d3.sc.omtrdc.net": {
+    "error": "HTTP 429"
+  },
+  "sync.crwdcntrl.net": {
+    "error": "HTTP 429"
+  },
+  "spl.zeotap.com": {
+    "error": "HTTP 429"
+  },
+  "hb-api.omnitagjs.com": {
+    "error": "HTTP 429"
+  },
+  "assets.adobedtm.com": {
+    "error": "HTTP 429"
+  },
+  "tlx.3lift.com": {
+    "error": "HTTP 429"
+  },
+  "aax-eu.amazon.co.uk": {
+    "error": "HTTP 429"
+  },
+  "images-eu.ssl-images-amazon.com": {
+    "error": "HTTP 429"
+  },
+  "sdk.privacy-center.org": {
+    "error": "HTTP 429"
+  },
+  "tag.durationmedia.net": {
+    "error": "HTTP 429"
+  },
+  "postrelease.com": {
+    "error": "HTTP 429"
+  },
+  "eus.rubiconproject.com": {
+    "error": "HTTP 429"
+  },
+  "ping.chartbeat.net": {
+    "error": "HTTP 429"
+  },
+  "a.teads.tv": {
+    "error": "HTTP 429"
+  },
+  "aax.amazon-adsystem.com": {
+    "error": "HTTP 429"
+  },
+  "choices.trustarc.com": {
+    "error": "HTTP 429"
+  },
+  "googleads.g.doubleclick.net": {
+    "error": "HTTP 429"
+  },
+  "dt.adsafeprotected.com": {
+    "error": "HTTP 429"
+  },
+  "ssum-sec.casalemedia.com": {
+    "error": "HTTP 429"
+  },
+  "c1.adform.net": {
+    "error": "HTTP 429"
+  },
+  "tr.blismedia.com": {
+    "error": "HTTP 429"
+  }
+}</pre>
+    </div>
+
+    <div class="section">
+        <h2>🛡️ Final TrapScore Summary</h2>
+        <p>
+            <strong>Trackers:</strong> 0<br>
+            <strong>Countries:</strong> 5<br>
+            <strong>Fingerprint:</strong> 1<br>
+            <strong>Storage Flags:</strong> 2<br>
+            <strong>Total Score:</strong> 20/100 → 
+            <span class="risk-low">LOW RISK</span>
+        </p>
+    </div>
+</body>
+</html>
