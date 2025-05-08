@@ -66,3 +66,8 @@ o	GeoIP map of tracker countries
 o	Final TrapScore with detailed breakdown
 
 
+I had also uploaded the pdfs of my Amazon surfing and Euro News dashboard for your reference incase anyone needs to check.
+
+These are named as:
+o amazon_surfing.pdf
+o euro_news.pdf
