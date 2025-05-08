@@ -10,7 +10,8 @@ Experimental Setup
 To reproduce our experiment or run your own privacy analysis using TrapTrack, follow the steps below:
 
 1. Install All Dependencies
-   Before starting, make sure you’ve set up the environment:
+
+Before starting, make sure you’ve set up the environment:
    ~ Python 3.10 or higher
    ~ Playwright (headless browser automation)
    ~ MITMproxy (for traffic interception)
