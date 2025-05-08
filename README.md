@@ -1,4 +1,9 @@
 # CS810E_Project
+
+Project by:
+> Shravani Sawant
+> Ayushi Gupta
+
 Experimental Setup
 
 Procedure:
